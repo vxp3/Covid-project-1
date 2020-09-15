@@ -1,0 +1,3247 @@
+,FIPS,4/19/20 Number of Infected,4/19/20 Number of Death,county_state,Mortality Rate (County Level)
+0,01001,26,2,"Autauga, Alabama",0.077
+1,01003,112,2,"Baldwin, Alabama",0.018
+2,01005,20,0,"Barbour, Alabama",0.0
+3,01007,28,0,"Bibb, Alabama",0.0
+4,01009,21,0,"Blount, Alabama",0.0
+5,01011,9,0,"Bullock, Alabama",0.0
+6,01013,14,0,"Butler, Alabama",0.0
+7,01015,71,2,"Calhoun, Alabama",0.028
+8,01017,245,13,"Chambers, Alabama",0.053
+9,01019,12,0,"Cherokee, Alabama",0.0
+10,01021,41,0,"Chilton, Alabama",0.0
+11,01023,14,0,"Choctaw, Alabama",0.0
+12,01025,24,0,"Clarke, Alabama",0.0
+13,01027,18,0,"Clay, Alabama",0.0
+14,01029,12,1,"Cleburne, Alabama",0.083
+15,01031,59,0,"Coffee, Alabama",0.0
+16,01033,16,1,"Colbert, Alabama",0.062
+17,01035,10,0,"Conecuh, Alabama",0.0
+18,01037,22,1,"Coosa, Alabama",0.045
+19,01039,22,1,"Covington, Alabama",0.045
+20,01041,6,0,"Crenshaw, Alabama",0.0
+21,01043,42,0,"Cullman, Alabama",0.0
+22,01045,20,0,"Dale, Alabama",0.0
+23,01047,25,2,"Dallas, Alabama",0.08
+24,01049,42,2,"DeKalb, Alabama",0.048
+25,01051,63,1,"Elmore, Alabama",0.016
+26,01053,14,0,"Escambia, Alabama",0.0
+27,01055,98,7,"Etowah, Alabama",0.071
+28,01057,4,0,"Fayette, Alabama",0.0
+29,01059,17,0,"Franklin, Alabama",0.0
+30,01061,4,0,"Geneva, Alabama",0.0
+31,01063,29,0,"Greene, Alabama",0.0
+32,01065,25,1,"Hale, Alabama",0.04
+33,01067,17,0,"Henry, Alabama",0.0
+34,01069,66,2,"Houston, Alabama",0.03
+35,01071,38,2,"Jackson, Alabama",0.053
+36,01073,682,25,"Jefferson, Alabama",0.037
+37,01075,8,0,"Lamar, Alabama",0.0
+38,01077,23,4,"Lauderdale, Alabama",0.174
+39,01079,9,0,"Lawrence, Alabama",0.0
+40,01081,308,14,"Lee, Alabama",0.045
+41,01083,40,0,"Limestone, Alabama",0.0
+42,01085,28,0,"Lowndes, Alabama",0.0
+43,01087,25,2,"Macon, Alabama",0.08
+44,01089,199,4,"Madison, Alabama",0.02
+45,01091,26,1,"Marengo, Alabama",0.038
+46,01093,61,5,"Marion, Alabama",0.082
+47,01095,149,4,"Marshall, Alabama",0.027
+48,01097,661,28,"Mobile, Alabama",0.042
+49,01099,9,1,"Monroe, Alabama",0.111
+50,01101,226,3,"Montgomery, Alabama",0.013
+51,01103,47,0,"Morgan, Alabama",0.0
+52,01105,9,0,"Perry, Alabama",0.0
+53,01107,38,0,"Pickens, Alabama",0.0
+54,01109,37,0,"Pike, Alabama",0.0
+55,01111,53,3,"Randolph, Alabama",0.057
+56,01113,43,0,"Russell, Alabama",0.0
+57,01115,54,0,"St. Clair, Alabama",0.0
+58,01117,268,7,"Shelby, Alabama",0.026
+59,01119,36,0,"Sumter, Alabama",0.0
+60,01121,46,1,"Talladega, Alabama",0.022
+61,01123,195,12,"Tallapoosa, Alabama",0.062
+62,01125,145,1,"Tuscaloosa, Alabama",0.007
+63,01127,85,0,"Walker, Alabama",0.0
+64,01129,16,1,"Washington, Alabama",0.062
+65,01131,47,1,"Wilcox, Alabama",0.021
+66,01133,9,0,"Winston, Alabama",0.0
+67,0,0,0,0,0.0
+68,0,0,0,0,0.0
+69,02020,154,4,"Anchorage, Alaska",0.026
+70,02050,1,0,"Bethel, Alaska",0.0
+71,0,0,0,0,0.0
+72,0,0,0,0,0.0
+73,0,0,0,0,0.0
+74,02090,79,1,"Fairbanks North Star, Alaska",0.013
+75,0,0,0,0,0.0
+76,0,0,0,0,0.0
+77,02110,24,0,"Juneau, Alaska",0.0
+78,02122,19,0,"Kenai Peninsula, Alaska",0.0
+79,02130,15,0,"Ketchikan Gateway, Alaska",0.0
+80,02150,1,0,"Kodiak Island, Alaska",0.0
+81,0,0,0,0,0.0
+82,0,0,0,0,0.0
+83,02170,18,0,"Matanuska-Susitna, Alaska",0.0
+84,02180,1,0,"Nome, Alaska",0.0
+85,0,0,0,0,0.0
+86,0,0,0,0,0.0
+87,02195,3,0,"Petersburg, Alaska",0.0
+88,02198,2,0,"Prince of Wales-Hyder, Alaska",0.0
+89,0,0,0,0,0.0
+90,0,0,0,0,0.0
+91,02240,1,0,"Southeast Fairbanks, Alaska",0.0
+92,0,0,0,0,0.0
+93,0,0,0,0,0.0
+94,0,0,0,0,0.0
+95,02290,1,0,"Yukon-Koyukuk, Alaska",0.0
+96,04001,178,4,"Apache, Arizona",0.022
+97,04003,24,0,"Cochise, Arizona",0.0
+98,04005,333,26,"Coconino, Arizona",0.078
+99,04007,7,0,"Gila, Arizona",0.0
+100,04009,2,0,"Graham, Arizona",0.0
+101,04011,2,0,"Greenlee, Arizona",0.0
+102,04012,5,1,"La Paz, Arizona",0.2
+103,04013,2589,75,"Maricopa, Arizona",0.029
+104,04015,54,1,"Mohave, Arizona",0.019
+105,04017,459,11,"Navajo, Arizona",0.024
+106,04019,913,56,"Pima, Arizona",0.061
+107,04021,247,7,"Pinal, Arizona",0.028
+108,04023,19,0,"Santa Cruz, Arizona",0.0
+109,04025,72,1,"Yavapai, Arizona",0.014
+110,04027,29,1,"Yuma, Arizona",0.034
+111,05001,2,0,"Arkansas, Arkansas",0.0
+112,05003,11,0,"Ashley, Arkansas",0.0
+113,05005,5,0,"Baxter, Arkansas",0.0
+114,05007,62,0,"Benton, Arkansas",0.0
+115,05009,3,0,"Boone, Arkansas",0.0
+116,05011,7,1,"Bradley, Arkansas",0.143
+117,0,0,0,0,0.0
+118,05015,2,0,"Carroll, Arkansas",0.0
+119,05017,7,0,"Chicot, Arkansas",0.0
+120,05019,27,0,"Clark, Arkansas",0.0
+121,05021,1,0,"Clay, Arkansas",0.0
+122,05023,70,4,"Cleburne, Arkansas",0.057
+123,05025,8,0,"Cleveland, Arkansas",0.0
+124,05027,5,0,"Columbia, Arkansas",0.0
+125,05029,5,1,"Conway, Arkansas",0.2
+126,05031,43,1,"Craighead, Arkansas",0.023
+127,05033,4,0,"Crawford, Arkansas",0.0
+128,05035,139,4,"Crittenden, Arkansas",0.029
+129,05037,8,0,"Cross, Arkansas",0.0
+130,05039,1,0,"Dallas, Arkansas",0.0
+131,05041,7,0,"Desha, Arkansas",0.0
+132,05043,6,1,"Drew, Arkansas",0.167
+133,05045,62,2,"Faulkner, Arkansas",0.032
+134,05047,1,0,"Franklin, Arkansas",0.0
+135,0,0,0,0,0.0
+136,05051,107,0,"Garland, Arkansas",0.0
+137,05053,11,0,"Grant, Arkansas",0.0
+138,05055,8,0,"Greene, Arkansas",0.0
+139,05057,5,1,"Hempstead, Arkansas",0.2
+140,05059,8,0,"Hot Spring, Arkansas",0.0
+141,05061,14,0,"Howard, Arkansas",0.0
+142,05063,8,0,"Independence, Arkansas",0.0
+143,05065,2,0,"Izard, Arkansas",0.0
+144,05067,1,0,"Jackson, Arkansas",0.0
+145,05069,118,6,"Jefferson, Arkansas",0.051
+146,05071,22,0,"Johnson, Arkansas",0.0
+147,05073,4,0,"Lafayette, Arkansas",0.0
+148,05075,26,1,"Lawrence, Arkansas",0.038
+149,05077,3,1,"Lee, Arkansas",0.333
+150,05079,111,0,"Lincoln, Arkansas",0.0
+151,0,0,0,0,0.0
+152,05083,3,0,"Logan, Arkansas",0.0
+153,05085,26,0,"Lonoke, Arkansas",0.0
+154,05087,1,0,"Madison, Arkansas",0.0
+155,05089,1,0,"Marion, Arkansas",0.0
+156,05091,29,0,"Miller, Arkansas",0.0
+157,05093,8,0,"Mississippi, Arkansas",0.0
+158,05095,3,0,"Monroe, Arkansas",0.0
+159,0,0,0,0,0.0
+160,05099,1,0,"Nevada, Arkansas",0.0
+161,05101,2,0,"Newton, Arkansas",0.0
+162,05103,5,0,"Ouachita, Arkansas",0.0
+163,05105,3,0,"Perry, Arkansas",0.0
+164,05107,4,1,"Phillips, Arkansas",0.25
+165,05109,2,0,"Pike, Arkansas",0.0
+166,05111,10,0,"Poinsett, Arkansas",0.0
+167,05113,7,0,"Polk, Arkansas",0.0
+168,05115,35,0,"Pope, Arkansas",0.0
+169,05117,2,0,"Prairie, Arkansas",0.0
+170,05119,377,12,"Pulaski, Arkansas",0.032
+171,05121,11,0,"Randolph, Arkansas",0.0
+172,05123,64,0,"St. Francis, Arkansas",0.0
+173,05125,43,1,"Saline, Arkansas",0.023
+174,05127,1,0,"Scott, Arkansas",0.0
+175,05129,6,0,"Searcy, Arkansas",0.0
+176,05131,11,0,"Sebastian, Arkansas",0.0
+177,05133,9,0,"Sevier, Arkansas",0.0
+178,05135,2,0,"Sharp, Arkansas",0.0
+179,05137,7,0,"Stone, Arkansas",0.0
+180,05139,24,0,"Union, Arkansas",0.0
+181,05141,26,2,"Van Buren, Arkansas",0.077
+182,05143,46,0,"Washington, Arkansas",0.0
+183,05145,29,0,"White, Arkansas",0.0
+184,05147,1,0,"Woodruff, Arkansas",0.0
+185,05149,2,0,"Yell, Arkansas",0.0
+186,06001,1164,42,"Alameda, California",0.036
+187,06003,2,0,"Alpine, California",0.0
+188,06005,7,0,"Amador, California",0.0
+189,06007,16,0,"Butte, California",0.0
+190,06009,12,0,"Calaveras, California",0.0
+191,06011,3,0,"Colusa, California",0.0
+192,06013,693,20,"Contra Costa, California",0.029
+193,06015,2,0,"Del Norte, California",0.0
+194,06017,36,0,"El Dorado, California",0.0
+195,06019,315,7,"Fresno, California",0.022
+196,06021,4,0,"Glenn, California",0.0
+197,06023,52,0,"Humboldt, California",0.0
+198,06025,155,3,"Imperial, California",0.019
+199,06027,18,0,"Inyo, California",0.0
+200,06029,623,3,"Kern, California",0.005
+201,06031,28,1,"Kings, California",0.036
+202,06033,6,0,"Lake, California",0.0
+203,0,0,0,0,0.0
+204,06037,12341,600,"Los Angeles, California",0.049
+205,06039,34,2,"Madera, California",0.059
+206,06041,189,10,"Marin, California",0.053
+207,0,0,0,0,0.0
+208,06045,5,0,"Mendocino, California",0.0
+209,06047,90,3,"Merced, California",0.033
+210,0,0,0,0,0.0
+211,06051,23,1,"Mono, California",0.043
+212,06053,136,3,"Monterey, California",0.022
+213,06055,47,2,"Napa, California",0.043
+214,06057,36,1,"Nevada, California",0.028
+215,06059,1636,32,"Orange, California",0.02
+216,06061,132,8,"Placer, California",0.061
+217,06063,4,0,"Plumas, California",0.0
+218,06065,2638,75,"Riverside, California",0.028
+219,06067,925,34,"Sacramento, California",0.037
+220,06069,44,2,"San Benito, California",0.045
+221,06071,1286,57,"San Bernardino, California",0.044
+222,06073,2213,71,"San Diego, California",0.032
+223,06075,1157,20,"San Francisco, California",0.017
+224,06077,415,17,"San Joaquin, California",0.041
+225,06079,132,1,"San Luis Obispo, California",0.008
+226,06081,838,28,"San Mateo, California",0.033
+227,06083,385,4,"Santa Barbara, California",0.01
+228,06085,1870,73,"Santa Clara, California",0.039
+229,06087,104,2,"Santa Cruz, California",0.019
+230,06089,26,3,"Shasta, California",0.115
+231,0,0,0,0,0.0
+232,06093,5,0,"Siskiyou, California",0.0
+233,06095,169,2,"Solano, California",0.012
+234,06097,180,2,"Sonoma, California",0.011
+235,06099,221,4,"Stanislaus, California",0.018
+236,06101,25,2,"Sutter, California",0.08
+237,06103,1,1,"Tehama, California",1.0
+238,0,0,0,0,0.0
+239,06107,411,17,"Tulare, California",0.041
+240,06109,2,0,"Tuolumne, California",0.0
+241,06111,422,13,"Ventura, California",0.031
+242,06113,137,8,"Yolo, California",0.058
+243,06115,16,1,"Yuba, California",0.062
+244,08001,915,35,"Adams, Colorado",0.038
+245,08003,7,2,"Alamosa, Colorado",0.286
+246,08005,1536,65,"Arapahoe, Colorado",0.042
+247,08007,7,0,"Archuleta, Colorado",0.0
+248,08009,10,0,"Baca, Colorado",0.0
+249,0,0,0,0,0.0
+250,08013,352,17,"Boulder, Colorado",0.048
+251,08014,101,2,"Broomfield, Colorado",0.02
+252,08015,38,4,"Chaffee, Colorado",0.105
+253,0,0,0,0,0.0
+254,08019,11,0,"Clear Creek, Colorado",0.0
+255,0,0,0,0,0.0
+256,08023,3,0,"Costilla, Colorado",0.0
+257,08025,2,1,"Crowley, Colorado",0.5
+258,08027,2,0,"Custer, Colorado",0.0
+259,08029,22,1,"Delta, Colorado",0.045
+260,08031,1784,75,"Denver, Colorado",0.042
+261,0,0,0,0,0.0
+262,08035,368,16,"Douglas, Colorado",0.043
+263,08037,485,7,"Eagle, Colorado",0.014
+264,08039,23,1,"Elbert, Colorado",0.043
+265,08041,731,49,"El Paso, Colorado",0.067
+266,08043,10,0,"Fremont, Colorado",0.0
+267,08045,70,2,"Garfield, Colorado",0.029
+268,08047,1,0,"Gilpin, Colorado",0.0
+269,08049,4,0,"Grand, Colorado",0.0
+270,08051,114,3,"Gunnison, Colorado",0.026
+271,08053,3,0,"Hinsdale, Colorado",0.0
+272,08055,1,0,"Huerfano, Colorado",0.0
+273,0,0,0,0,0.0
+274,08059,957,36,"Jefferson, Colorado",0.038
+275,0,0,0,0,0.0
+276,08063,18,1,"Kit Carson, Colorado",0.056
+277,08065,8,0,"Lake, Colorado",0.0
+278,08067,52,0,"La Plata, Colorado",0.0
+279,08069,239,12,"Larimer, Colorado",0.05
+280,08071,3,0,"Las Animas, Colorado",0.0
+281,08073,3,0,"Lincoln, Colorado",0.0
+282,08075,17,1,"Logan, Colorado",0.059
+283,08077,35,0,"Mesa, Colorado",0.0
+284,08079,2,0,"Mineral, Colorado",0.0
+285,08081,4,0,"Moffat, Colorado",0.0
+286,08083,13,2,"Montezuma, Colorado",0.154
+287,08085,77,7,"Montrose, Colorado",0.091
+288,08087,157,2,"Morgan, Colorado",0.013
+289,08089,6,0,"Otero, Colorado",0.0
+290,08091,5,1,"Ouray, Colorado",0.2
+291,08093,6,0,"Park, Colorado",0.0
+292,08095,5,0,"Phillips, Colorado",0.0
+293,08097,57,2,"Pitkin, Colorado",0.035
+294,08099,1,0,"Prowers, Colorado",0.0
+295,08101,87,6,"Pueblo, Colorado",0.069
+296,08103,1,0,"Rio Blanco, Colorado",0.0
+297,08105,7,0,"Rio Grande, Colorado",0.0
+298,08107,49,2,"Routt, Colorado",0.041
+299,08109,3,0,"Saguache, Colorado",0.0
+300,0,0,0,0,0.0
+301,08113,15,0,"San Miguel, Colorado",0.0
+302,0,0,0,0,0.0
+303,08117,93,1,"Summit, Colorado",0.011
+304,08119,24,2,"Teller, Colorado",0.083
+305,08121,6,0,"Washington, Colorado",0.0
+306,08123,1063,64,"Weld, Colorado",0.06
+307,08125,3,0,"Yuma, Colorado",0.0
+308,09001,7434,447,"Fairfield, Connecticut",0.06
+309,09003,3351,295,"Hartford, Connecticut",0.088
+310,09005,600,48,"Litchfield, Connecticut",0.08
+311,09007,462,40,"Middlesex, Connecticut",0.087
+312,09009,4871,257,"New Haven, Connecticut",0.053
+313,09011,339,10,"New London, Connecticut",0.029
+314,09013,276,24,"Tolland, Connecticut",0.087
+315,09015,100,2,"Windham, Connecticut",0.02
+316,10001,417,10,"Kent, Delaware",0.024
+317,10003,1205,32,"New Castle, Delaware",0.027
+318,10005,886,25,"Sussex, Delaware",0.028
+319,11001,2793,96,"District of Columbia, District of Columbia",0.034
+320,12001,210,0,"Alachua, Florida",0.0
+321,12003,17,3,"Baker, Florida",0.176
+322,12005,55,2,"Bay, Florida",0.036
+323,12007,42,2,"Bradford, Florida",0.048
+324,12009,215,7,"Brevard, Florida",0.033
+325,12011,3971,115,"Broward, Florida",0.029
+326,12013,6,0,"Calhoun, Florida",0.0
+327,12015,138,9,"Charlotte, Florida",0.065
+328,12017,84,8,"Citrus, Florida",0.095
+329,12019,247,11,"Clay, Florida",0.045
+330,12021,463,8,"Collier, Florida",0.017
+331,12023,39,0,"Columbia, Florida",0.0
+332,12027,24,4,"DeSoto, Florida",0.167
+333,12029,3,0,"Dixie, Florida",0.0
+334,12031,854,15,"Duval, Florida",0.018
+335,12033,309,8,"Escambia, Florida",0.026
+336,12035,75,2,"Flagler, Florida",0.027
+337,12037,2,0,"Franklin, Florida",0.0
+338,12039,51,0,"Gadsden, Florida",0.0
+339,12041,4,0,"Gilchrist, Florida",0.0
+340,12043,5,1,"Glades, Florida",0.2
+341,12045,1,0,"Gulf, Florida",0.0
+342,12047,3,0,"Hamilton, Florida",0.0
+343,12049,4,0,"Hardee, Florida",0.0
+344,12051,41,0,"Hendry, Florida",0.0
+345,12053,84,3,"Hernando, Florida",0.036
+346,12055,70,6,"Highlands, Florida",0.086
+347,12057,960,19,"Hillsborough, Florida",0.02
+348,12059,6,0,"Holmes, Florida",0.0
+349,12061,84,3,"Indian River, Florida",0.036
+350,12063,8,0,"Jackson, Florida",0.0
+351,12065,26,1,"Jefferson, Florida",0.038
+352,12067,1,0,"Lafayette, Florida",0.0
+353,12069,207,6,"Lake, Florida",0.029
+354,12071,769,27,"Lee, Florida",0.035
+355,12073,176,1,"Leon, Florida",0.006
+356,12075,12,0,"Levy, Florida",0.0
+357,12077,2,0,"Liberty, Florida",0.0
+358,12079,21,0,"Madison, Florida",0.0
+359,12081,417,31,"Manatee, Florida",0.074
+360,12083,121,3,"Marion, Florida",0.025
+361,12085,151,4,"Martin, Florida",0.026
+362,12086,9354,207,"Miami-Dade, Florida",0.022
+363,12087,73,3,"Monroe, Florida",0.041
+364,12089,44,0,"Nassau, Florida",0.0
+365,12091,131,3,"Okaloosa, Florida",0.023
+366,12093,7,0,"Okeechobee, Florida",0.0
+367,12095,1198,23,"Orange, Florida",0.019
+368,12097,409,5,"Osceola, Florida",0.012
+369,12099,2170,121,"Palm Beach, Florida",0.056
+370,12101,205,3,"Pasco, Florida",0.015
+371,12103,592,16,"Pinellas, Florida",0.027
+372,12105,326,12,"Polk, Florida",0.037
+373,12107,56,1,"Putnam, Florida",0.018
+374,12109,190,4,"St. Johns, Florida",0.021
+375,12111,202,15,"St. Lucie, Florida",0.074
+376,12113,138,6,"Santa Rosa, Florida",0.043
+377,12115,284,23,"Sarasota, Florida",0.081
+378,12117,320,5,"Seminole, Florida",0.016
+379,12119,147,11,"Sumter, Florida",0.075
+380,12121,98,6,"Suwannee, Florida",0.061
+381,12123,1,0,"Taylor, Florida",0.0
+382,12125,3,0,"Union, Florida",0.0
+383,12127,333,10,"Volusia, Florida",0.03
+384,12129,14,1,"Wakulla, Florida",0.071
+385,12131,32,0,"Walton, Florida",0.0
+386,12133,6,0,"Washington, Florida",0.0
+387,13001,20,0,"Appling, Georgia",0.0
+388,13003,5,0,"Atkinson, Georgia",0.0
+389,13005,18,1,"Bacon, Georgia",0.056
+390,13007,17,2,"Baker, Georgia",0.118
+391,13009,110,2,"Baldwin, Georgia",0.018
+392,13011,14,0,"Banks, Georgia",0.0
+393,13013,90,3,"Barrow, Georgia",0.033
+394,13015,248,22,"Bartow, Georgia",0.089
+395,13017,15,0,"Ben Hill, Georgia",0.0
+396,13019,10,0,"Berrien, Georgia",0.0
+397,13021,199,1,"Bibb, Georgia",0.005
+398,13023,6,0,"Bleckley, Georgia",0.0
+399,13025,18,2,"Brantley, Georgia",0.111
+400,13027,23,5,"Brooks, Georgia",0.217
+401,13029,33,2,"Bryan, Georgia",0.061
+402,13031,27,1,"Bulloch, Georgia",0.037
+403,13033,47,2,"Burke, Georgia",0.043
+404,13035,43,0,"Butts, Georgia",0.0
+405,13037,57,2,"Calhoun, Georgia",0.035
+406,13039,28,0,"Camden, Georgia",0.0
+407,13043,5,0,"Candler, Georgia",0.0
+408,13045,281,9,"Carroll, Georgia",0.032
+409,13047,19,0,"Catoosa, Georgia",0.0
+410,13049,6,0,"Charlton, Georgia",0.0
+411,13051,179,5,"Chatham, Georgia",0.028
+412,13053,6,0,"Chattahoochee, Georgia",0.0
+413,13055,9,1,"Chattooga, Georgia",0.111
+414,13057,293,8,"Cherokee, Georgia",0.027
+415,13059,108,13,"Clarke, Georgia",0.12
+416,13061,20,2,"Clay, Georgia",0.1
+417,13063,519,17,"Clayton, Georgia",0.033
+418,13065,7,0,"Clinch, Georgia",0.0
+419,13067,1125,51,"Cobb, Georgia",0.045
+420,13069,79,4,"Coffee, Georgia",0.051
+421,13071,122,5,"Colquitt, Georgia",0.041
+422,13073,101,1,"Columbia, Georgia",0.01
+423,13075,12,1,"Cook, Georgia",0.083
+424,13077,161,3,"Coweta, Georgia",0.019
+425,13079,13,0,"Crawford, Georgia",0.0
+426,13081,118,2,"Crisp, Georgia",0.017
+427,13083,8,1,"Dade, Georgia",0.125
+428,13085,44,1,"Dawson, Georgia",0.023
+429,13087,61,1,"Decatur, Georgia",0.016
+430,13089,1452,24,"DeKalb, Georgia",0.017
+431,13091,19,0,"Dodge, Georgia",0.0
+432,13093,70,4,"Dooly, Georgia",0.057
+433,13095,1422,94,"Dougherty, Georgia",0.066
+434,13097,230,6,"Douglas, Georgia",0.026
+435,13099,169,8,"Early, Georgia",0.047
+436,13101,4,0,"Echols, Georgia",0.0
+437,13103,26,1,"Effingham, Georgia",0.038
+438,13105,7,0,"Elbert, Georgia",0.0
+439,13107,12,0,"Emanuel, Georgia",0.0
+440,13109,2,0,"Evans, Georgia",0.0
+441,13111,16,0,"Fannin, Georgia",0.0
+442,13113,139,5,"Fayette, Georgia",0.036
+443,13115,122,8,"Floyd, Georgia",0.066
+444,13117,200,7,"Forsyth, Georgia",0.035
+445,13119,10,0,"Franklin, Georgia",0.0
+446,13121,2110,75,"Fulton, Georgia",0.036
+447,13123,11,0,"Gilmer, Georgia",0.0
+448,0,0,0,0,0.0
+449,13127,49,0,"Glynn, Georgia",0.0
+450,13129,64,5,"Gordon, Georgia",0.078
+451,13131,31,1,"Grady, Georgia",0.032
+452,13133,43,1,"Greene, Georgia",0.023
+453,13135,1099,38,"Gwinnett, Georgia",0.035
+454,13137,74,2,"Habersham, Georgia",0.027
+455,13139,621,6,"Hall, Georgia",0.01
+456,13141,7,0,"Hancock, Georgia",0.0
+457,13143,20,1,"Haralson, Georgia",0.05
+458,13145,39,2,"Harris, Georgia",0.051
+459,13147,6,0,"Hart, Georgia",0.0
+460,13149,8,1,"Heard, Georgia",0.125
+461,13151,367,7,"Henry, Georgia",0.019
+462,13153,166,10,"Houston, Georgia",0.06
+463,13155,15,0,"Irwin, Georgia",0.0
+464,13157,48,1,"Jackson, Georgia",0.021
+465,13159,17,0,"Jasper, Georgia",0.0
+466,13161,6,0,"Jeff Davis, Georgia",0.0
+467,13163,11,1,"Jefferson, Georgia",0.091
+468,13165,12,1,"Jenkins, Georgia",0.083
+469,13167,33,1,"Johnson, Georgia",0.03
+470,13169,17,0,"Jones, Georgia",0.0
+471,13171,25,0,"Lamar, Georgia",0.0
+472,13173,6,1,"Lanier, Georgia",0.167
+473,13175,43,1,"Laurens, Georgia",0.023
+474,13177,272,15,"Lee, Georgia",0.055
+475,13179,32,0,"Liberty, Georgia",0.0
+476,13181,9,0,"Lincoln, Georgia",0.0
+477,13183,2,0,"Long, Georgia",0.0
+478,13185,95,3,"Lowndes, Georgia",0.032
+479,13187,23,0,"Lumpkin, Georgia",0.0
+480,13189,37,2,"McDuffie, Georgia",0.054
+481,13191,4,0,"McIntosh, Georgia",0.0
+482,13193,49,0,"Macon, Georgia",0.0
+483,13195,14,1,"Madison, Georgia",0.071
+484,13197,28,1,"Marion, Georgia",0.036
+485,13199,42,0,"Meriwether, Georgia",0.0
+486,13201,22,0,"Miller, Georgia",0.0
+487,13205,213,23,"Mitchell, Georgia",0.108
+488,13207,15,1,"Monroe, Georgia",0.067
+489,13209,2,0,"Montgomery, Georgia",0.0
+490,13211,21,0,"Morgan, Georgia",0.0
+491,13213,18,0,"Murray, Georgia",0.0
+492,13215,219,4,"Muscogee, Georgia",0.018
+493,13217,128,3,"Newton, Georgia",0.023
+494,13219,50,0,"Oconee, Georgia",0.0
+495,13221,32,2,"Oglethorpe, Georgia",0.062
+496,13223,133,7,"Paulding, Georgia",0.053
+497,13225,32,2,"Peach, Georgia",0.062
+498,13227,18,2,"Pickens, Georgia",0.111
+499,13229,51,2,"Pierce, Georgia",0.039
+500,13231,32,1,"Pike, Georgia",0.031
+501,13233,30,0,"Polk, Georgia",0.0
+502,13235,16,1,"Pulaski, Georgia",0.062
+503,13237,21,1,"Putnam, Georgia",0.048
+504,13239,3,1,"Quitman, Georgia",0.333
+505,13241,7,0,"Rabun, Georgia",0.0
+506,13243,141,13,"Randolph, Georgia",0.092
+507,13245,264,10,"Richmond, Georgia",0.038
+508,13247,128,6,"Rockdale, Georgia",0.047
+509,13249,16,1,"Schley, Georgia",0.062
+510,13251,11,1,"Screven, Georgia",0.091
+511,13253,21,2,"Seminole, Georgia",0.095
+512,13255,128,7,"Spalding, Georgia",0.055
+513,13257,35,1,"Stephens, Georgia",0.029
+514,13259,15,0,"Stewart, Georgia",0.0
+515,13261,332,14,"Sumter, Georgia",0.042
+516,13263,16,1,"Talbot, Georgia",0.062
+517,0,0,0,0,0.0
+518,13267,5,0,"Tattnall, Georgia",0.0
+519,13269,11,2,"Taylor, Georgia",0.182
+520,13271,14,0,"Telfair, Georgia",0.0
+521,13273,148,14,"Terrell, Georgia",0.095
+522,13275,127,13,"Thomas, Georgia",0.102
+523,13277,86,3,"Tift, Georgia",0.035
+524,13279,20,2,"Toombs, Georgia",0.1
+525,13281,13,0,"Towns, Georgia",0.0
+526,13283,1,0,"Treutlen, Georgia",0.0
+527,13285,87,4,"Troup, Georgia",0.046
+528,13287,56,2,"Turner, Georgia",0.036
+529,13289,4,0,"Twiggs, Georgia",0.0
+530,13291,14,1,"Union, Georgia",0.071
+531,13293,170,8,"Upson, Georgia",0.047
+532,13295,15,0,"Walker, Georgia",0.0
+533,13297,60,3,"Walton, Georgia",0.05
+534,13299,85,6,"Ware, Georgia",0.071
+535,13301,10,0,"Warren, Georgia",0.0
+536,13303,25,1,"Washington, Georgia",0.04
+537,13305,7,0,"Wayne, Georgia",0.0
+538,13307,5,0,"Webster, Georgia",0.0
+539,13309,3,0,"Wheeler, Georgia",0.0
+540,13311,20,0,"White, Georgia",0.0
+541,13313,43,3,"Whitfield, Georgia",0.07
+542,13315,43,3,"Wilcox, Georgia",0.07
+543,13317,17,0,"Wilkes, Georgia",0.0
+544,13319,20,1,"Wilkinson, Georgia",0.05
+545,13321,121,4,"Worth, Georgia",0.033
+546,15001,62,0,"Hawaii, Hawaii",0.0
+547,15003,385,6,"Honolulu, Hawaii",0.016
+548,0,0,0,0,0.0
+549,15007,21,0,"Kauai, Hawaii",0.0
+550,15009,106,4,"Maui, Hawaii",0.038
+551,16001,598,10,"Ada, Idaho",0.017
+552,16003,1,0,"Adams, Idaho",0.0
+553,16005,8,0,"Bannock, Idaho",0.0
+554,0,0,0,0,0.0
+555,0,0,0,0,0.0
+556,16011,3,0,"Bingham, Idaho",0.0
+557,16013,475,5,"Blaine, Idaho",0.011
+558,0,0,0,0,0.0
+559,16017,4,0,"Bonner, Idaho",0.0
+560,16019,24,0,"Bonneville, Idaho",0.0
+561,0,0,0,0,0.0
+562,0,0,0,0,0.0
+563,16025,1,0,"Camas, Idaho",0.0
+564,16027,187,5,"Canyon, Idaho",0.027
+565,16029,1,0,"Caribou, Idaho",0.0
+566,16031,10,1,"Cassia, Idaho",0.1
+567,0,0,0,0,0.0
+568,0,0,0,0,0.0
+569,16037,2,0,"Custer, Idaho",0.0
+570,16039,22,0,"Elmore, Idaho",0.0
+571,0,0,0,0,0.0
+572,16043,2,0,"Fremont, Idaho",0.0
+573,16045,10,0,"Gem, Idaho",0.0
+574,16047,8,0,"Gooding, Idaho",0.0
+575,16049,3,0,"Idaho, Idaho",0.0
+576,16051,5,0,"Jefferson, Idaho",0.0
+577,16053,44,2,"Jerome, Idaho",0.045
+578,16055,50,0,"Kootenai, Idaho",0.0
+579,16057,3,0,"Latah, Idaho",0.0
+580,0,0,0,0,0.0
+581,0,0,0,0,0.0
+582,16063,17,0,"Lincoln, Idaho",0.0
+583,16065,8,0,"Madison, Idaho",0.0
+584,16067,10,0,"Minidoka, Idaho",0.0
+585,16069,30,11,"Nez Perce, Idaho",0.367
+586,0,0,0,0,0.0
+587,16073,4,0,"Owyhee, Idaho",0.0
+588,16075,10,1,"Payette, Idaho",0.1
+589,16077,2,0,"Power, Idaho",0.0
+590,0,0,0,0,0.0
+591,16081,8,0,"Teton, Idaho",0.0
+592,16083,115,9,"Twin Falls, Idaho",0.078
+593,16085,2,0,"Valley, Idaho",0.0
+594,16087,1,0,"Washington, Idaho",0.0
+595,17001,34,0,"Adams, Illinois",0.0
+596,17003,2,0,"Alexander, Illinois",0.0
+597,17005,4,1,"Bond, Illinois",0.25
+598,17007,30,2,"Boone, Illinois",0.067
+599,0,0,0,0,0.0
+600,17011,8,0,"Bureau, Illinois",0.0
+601,17013,1,0,"Calhoun, Illinois",0.0
+602,17015,6,1,"Carroll, Illinois",0.167
+603,0,0,0,0,0.0
+604,17019,95,4,"Champaign, Illinois",0.042
+605,17021,25,4,"Christian, Illinois",0.16
+606,17023,4,0,"Clark, Illinois",0.0
+607,17025,1,0,"Clay, Illinois",0.0
+608,17027,45,0,"Clinton, Illinois",0.0
+609,17029,16,0,"Coles, Illinois",0.0
+610,17031,21272,877,"Cook, Illinois",0.041
+611,17033,4,0,"Crawford, Illinois",0.0
+612,17035,2,0,"Cumberland, Illinois",0.0
+613,17037,55,1,"DeKalb, Illinois",0.018
+614,17039,1,0,"De Witt, Illinois",0.0
+615,17041,12,0,"Douglas, Illinois",0.0
+616,17043,1695,85,"DuPage, Illinois",0.05
+617,0,0,0,0,0.0
+618,0,0,0,0,0.0
+619,17049,4,1,"Effingham, Illinois",0.25
+620,17051,15,1,"Fayette, Illinois",0.067
+621,17053,5,1,"Ford, Illinois",0.2
+622,17055,5,0,"Franklin, Illinois",0.0
+623,17057,1,0,"Fulton, Illinois",0.0
+624,17059,2,0,"Gallatin, Illinois",0.0
+625,17061,1,0,"Greene, Illinois",0.0
+626,17063,26,0,"Grundy, Illinois",0.0
+627,17065,1,0,"Hamilton, Illinois",0.0
+628,17067,3,0,"Hancock, Illinois",0.0
+629,0,0,0,0,0.0
+630,17071,2,0,"Henderson, Illinois",0.0
+631,17073,30,0,"Henry, Illinois",0.0
+632,17075,13,0,"Iroquois, Illinois",0.0
+633,17077,42,4,"Jackson, Illinois",0.095
+634,17079,20,1,"Jasper, Illinois",0.05
+635,17081,31,0,"Jefferson, Illinois",0.0
+636,17083,8,0,"Jersey, Illinois",0.0
+637,17085,12,0,"Jo Daviess, Illinois",0.0
+638,17087,2,0,"Johnson, Illinois",0.0
+639,17089,605,30,"Kane, Illinois",0.05
+640,17091,275,12,"Kankakee, Illinois",0.044
+641,17093,135,3,"Kendall, Illinois",0.022
+642,17095,9,0,"Knox, Illinois",0.0
+643,17097,2162,75,"Lake, Illinois",0.035
+644,17099,28,1,"LaSalle, Illinois",0.036
+645,17101,2,0,"Lawrence, Illinois",0.0
+646,17103,17,0,"Lee, Illinois",0.0
+647,17105,17,0,"Livingston, Illinois",0.0
+648,17107,4,0,"Logan, Illinois",0.0
+649,17109,3,0,"McDonough, Illinois",0.0
+650,17111,340,17,"McHenry, Illinois",0.05
+651,17113,85,3,"McLean, Illinois",0.035
+652,17115,54,7,"Macon, Illinois",0.13
+653,17117,21,0,"Macoupin, Illinois",0.0
+654,17119,180,6,"Madison, Illinois",0.033
+655,17121,20,0,"Marion, Illinois",0.0
+656,17123,4,0,"Marshall, Illinois",0.0
+657,17125,4,0,"Mason, Illinois",0.0
+658,17127,3,0,"Massac, Illinois",0.0
+659,17129,3,0,"Menard, Illinois",0.0
+660,17131,5,0,"Mercer, Illinois",0.0
+661,17133,53,7,"Monroe, Illinois",0.132
+662,17135,14,1,"Montgomery, Illinois",0.071
+663,17137,12,1,"Morgan, Illinois",0.083
+664,17139,2,0,"Moultrie, Illinois",0.0
+665,17141,48,1,"Ogle, Illinois",0.021
+666,17143,39,2,"Peoria, Illinois",0.051
+667,17145,1,0,"Perry, Illinois",0.0
+668,17147,7,0,"Piatt, Illinois",0.0
+669,17149,1,0,"Pike, Illinois",0.0
+670,0,0,0,0,0.0
+671,17153,9,0,"Pulaski, Illinois",0.0
+672,0,0,0,0,0.0
+673,17157,57,1,"Randolph, Illinois",0.018
+674,17159,2,0,"Richland, Illinois",0.0
+675,17161,188,4,"Rock Island, Illinois",0.021
+676,17163,271,18,"St. Clair, Illinois",0.066
+677,17165,3,0,"Saline, Illinois",0.0
+678,17167,62,4,"Sangamon, Illinois",0.065
+679,17169,1,0,"Schuyler, Illinois",0.0
+680,0,0,0,0,0.0
+681,17173,4,0,"Shelby, Illinois",0.0
+682,17175,1,0,"Stark, Illinois",0.0
+683,17177,12,0,"Stephenson, Illinois",0.0
+684,17179,26,3,"Tazewell, Illinois",0.115
+685,17181,5,0,"Union, Illinois",0.0
+686,17183,9,0,"Vermilion, Illinois",0.0
+687,17185,1,0,"Wabash, Illinois",0.0
+688,17187,13,0,"Warren, Illinois",0.0
+689,17189,7,0,"Washington, Illinois",0.0
+690,17191,1,0,"Wayne, Illinois",0.0
+691,0,0,0,0,0.0
+692,17195,36,3,"Whiteside, Illinois",0.083
+693,17197,1643,101,"Will, Illinois",0.061
+694,17199,14,0,"Williamson, Illinois",0.0
+695,17201,178,4,"Winnebago, Illinois",0.022
+696,17203,11,0,"Woodford, Illinois",0.0
+697,18001,7,1,"Adams, Indiana",0.143
+698,18003,301,19,"Allen, Indiana",0.063
+699,18005,136,6,"Bartholomew, Indiana",0.044
+700,18007,4,0,"Benton, Indiana",0.0
+701,18009,6,1,"Blackford, Indiana",0.167
+702,18011,153,8,"Boone, Indiana",0.052
+703,18013,14,1,"Brown, Indiana",0.071
+704,18015,6,1,"Carroll, Indiana",0.167
+705,18017,71,1,"Cass, Indiana",0.014
+706,18019,162,11,"Clark, Indiana",0.068
+707,18021,18,0,"Clay, Indiana",0.0
+708,18023,18,1,"Clinton, Indiana",0.056
+709,18025,12,0,"Crawford, Indiana",0.0
+710,18027,34,3,"Daviess, Indiana",0.088
+711,18029,68,5,"Dearborn, Indiana",0.074
+712,18031,168,18,"Decatur, Indiana",0.107
+713,18033,13,1,"DeKalb, Indiana",0.077
+714,18035,110,6,"Delaware, Indiana",0.055
+715,18037,16,0,"Dubois, Indiana",0.0
+716,18039,152,3,"Elkhart, Indiana",0.02
+717,18041,22,4,"Fayette, Indiana",0.182
+718,18043,142,7,"Floyd, Indiana",0.049
+719,18045,6,2,"Fountain, Indiana",0.333
+720,18047,89,7,"Franklin, Indiana",0.079
+721,18049,6,0,"Fulton, Indiana",0.0
+722,18051,5,0,"Gibson, Indiana",0.0
+723,18053,75,3,"Grant, Indiana",0.04
+724,18055,42,3,"Greene, Indiana",0.071
+725,18057,583,35,"Hamilton, Indiana",0.06
+726,18059,143,7,"Hancock, Indiana",0.049
+727,18061,87,2,"Harrison, Indiana",0.023
+728,18063,471,17,"Hendricks, Indiana",0.036
+729,18065,31,1,"Henry, Indiana",0.032
+730,18067,68,4,"Howard, Indiana",0.059
+731,18069,6,1,"Huntington, Indiana",0.167
+732,18071,90,0,"Jackson, Indiana",0.0
+733,18073,22,1,"Jasper, Indiana",0.045
+734,18075,9,0,"Jay, Indiana",0.0
+735,18077,18,0,"Jefferson, Indiana",0.0
+736,18079,64,1,"Jennings, Indiana",0.016
+737,18081,411,32,"Johnson, Indiana",0.078
+738,18083,18,0,"Knox, Indiana",0.0
+739,18085,22,1,"Kosciusko, Indiana",0.045
+740,18087,16,1,"LaGrange, Indiana",0.062
+741,18089,1105,45,"Lake, Indiana",0.041
+742,18091,140,5,"LaPorte, Indiana",0.036
+743,18093,79,9,"Lawrence, Indiana",0.114
+744,18095,332,32,"Madison, Indiana",0.096
+745,18097,3889,192,"Marion, Indiana",0.049
+746,18099,23,0,"Marshall, Indiana",0.0
+747,18101,5,0,"Martin, Indiana",0.0
+748,18103,22,0,"Miami, Indiana",0.0
+749,18105,114,4,"Monroe, Indiana",0.035
+750,18107,25,0,"Montgomery, Indiana",0.0
+751,18109,116,3,"Morgan, Indiana",0.026
+752,18111,31,4,"Newton, Indiana",0.129
+753,18113,36,3,"Noble, Indiana",0.083
+754,18115,1,0,"Ohio, Indiana",0.0
+755,18117,30,4,"Orange, Indiana",0.133
+756,18119,21,1,"Owen, Indiana",0.048
+757,18121,9,0,"Parke, Indiana",0.0
+758,18123,5,0,"Perry, Indiana",0.0
+759,18125,1,0,"Pike, Indiana",0.0
+760,18127,175,3,"Porter, Indiana",0.017
+761,18129,7,0,"Posey, Indiana",0.0
+762,18131,1,0,"Pulaski, Indiana",0.0
+763,18133,51,4,"Putnam, Indiana",0.078
+764,18135,12,1,"Randolph, Indiana",0.083
+765,18137,82,3,"Ripley, Indiana",0.037
+766,18139,19,1,"Rush, Indiana",0.053
+767,18141,402,8,"St. Joseph, Indiana",0.02
+768,18143,24,2,"Scott, Indiana",0.083
+769,18145,105,4,"Shelby, Indiana",0.038
+770,18147,4,0,"Spencer, Indiana",0.0
+771,18149,11,1,"Starke, Indiana",0.091
+772,18151,17,1,"Steuben, Indiana",0.059
+773,18153,8,0,"Sullivan, Indiana",0.0
+774,18155,13,0,"Switzerland, Indiana",0.0
+775,18157,56,2,"Tippecanoe, Indiana",0.036
+776,18159,13,1,"Tipton, Indiana",0.077
+777,18161,6,0,"Union, Indiana",0.0
+778,18163,85,1,"Vanderburgh, Indiana",0.012
+779,18165,6,0,"Vermillion, Indiana",0.0
+780,18167,57,5,"Vigo, Indiana",0.088
+781,18169,9,0,"Wabash, Indiana",0.0
+782,18171,7,1,"Warren, Indiana",0.143
+783,18173,58,4,"Warrick, Indiana",0.069
+784,18175,29,0,"Washington, Indiana",0.0
+785,18177,27,2,"Wayne, Indiana",0.074
+786,18179,5,0,"Wells, Indiana",0.0
+787,18181,7,0,"White, Indiana",0.0
+788,18183,16,1,"Whitley, Indiana",0.062
+789,19001,1,0,"Adair, Iowa",0.0
+790,0,0,0,0,0.0
+791,19005,36,3,"Allamakee, Iowa",0.083
+792,19007,2,2,"Appanoose, Iowa",1.0
+793,19009,1,0,"Audubon, Iowa",0.0
+794,19011,23,1,"Benton, Iowa",0.043
+795,19013,192,1,"Black Hawk, Iowa",0.005
+796,19015,6,0,"Boone, Iowa",0.0
+797,19017,26,0,"Bremer, Iowa",0.0
+798,19019,8,0,"Buchanan, Iowa",0.0
+799,19021,2,0,"Buena Vista, Iowa",0.0
+800,19023,1,0,"Butler, Iowa",0.0
+801,0,0,0,0,0.0
+802,19027,1,0,"Carroll, Iowa",0.0
+803,19029,1,0,"Cass, Iowa",0.0
+804,19031,26,0,"Cedar, Iowa",0.0
+805,19033,14,0,"Cerro Gordo, Iowa",0.0
+806,0,0,0,0,0.0
+807,19037,3,0,"Chickasaw, Iowa",0.0
+808,19039,2,0,"Clarke, Iowa",0.0
+809,19041,3,0,"Clay, Iowa",0.0
+810,19043,7,1,"Clayton, Iowa",0.143
+811,19045,41,0,"Clinton, Iowa",0.0
+812,19047,6,1,"Crawford, Iowa",0.167
+813,19049,45,0,"Dallas, Iowa",0.0
+814,0,0,0,0,0.0
+815,0,0,0,0,0.0
+816,19055,2,0,"Delaware, Iowa",0.0
+817,19057,11,0,"Des Moines, Iowa",0.0
+818,19059,1,0,"Dickinson, Iowa",0.0
+819,19061,44,1,"Dubuque, Iowa",0.023
+820,0,0,0,0,0.0
+821,19065,6,0,"Fayette, Iowa",0.0
+822,0,0,0,0,0.0
+823,19069,1,0,"Franklin, Iowa",0.0
+824,0,0,0,0,0.0
+825,19073,1,0,"Greene, Iowa",0.0
+826,19075,4,0,"Grundy, Iowa",0.0
+827,19077,4,0,"Guthrie, Iowa",0.0
+828,19079,2,0,"Hamilton, Iowa",0.0
+829,19081,3,0,"Hancock, Iowa",0.0
+830,19083,2,0,"Hardin, Iowa",0.0
+831,19085,13,0,"Harrison, Iowa",0.0
+832,19087,27,1,"Henry, Iowa",0.037
+833,19089,4,0,"Howard, Iowa",0.0
+834,0,0,0,0,0.0
+835,0,0,0,0,0.0
+836,19095,12,0,"Iowa, Iowa",0.0
+837,19097,4,0,"Jackson, Iowa",0.0
+838,19099,36,0,"Jasper, Iowa",0.0
+839,19101,4,0,"Jefferson, Iowa",0.0
+840,19103,285,3,"Johnson, Iowa",0.011
+841,19105,14,0,"Jones, Iowa",0.0
+842,19107,3,0,"Keokuk, Iowa",0.0
+843,19109,1,0,"Kossuth, Iowa",0.0
+844,19111,3,0,"Lee, Iowa",0.0
+845,19113,395,25,"Linn, Iowa",0.063
+846,19115,212,2,"Louisa, Iowa",0.009
+847,0,0,0,0,0.0
+848,19119,5,0,"Lyon, Iowa",0.0
+849,19121,3,1,"Madison, Iowa",0.333
+850,19123,8,0,"Mahaska, Iowa",0.0
+851,19125,4,0,"Marion, Iowa",0.0
+852,19127,155,0,"Marshall, Iowa",0.0
+853,19129,2,0,"Mills, Iowa",0.0
+854,19131,2,0,"Mitchell, Iowa",0.0
+855,19133,6,0,"Monona, Iowa",0.0
+856,0,0,0,0,0.0
+857,19137,1,0,"Montgomery, Iowa",0.0
+858,19139,207,4,"Muscatine, Iowa",0.019
+859,19141,3,0,"O'Brien, Iowa",0.0
+860,19143,3,0,"Osceola, Iowa",0.0
+861,19145,4,0,"Page, Iowa",0.0
+862,0,0,0,0,0.0
+863,19149,8,0,"Plymouth, Iowa",0.0
+864,0,0,0,0,0.0
+865,19153,333,13,"Polk, Iowa",0.039
+866,19155,18,1,"Pottawattamie, Iowa",0.056
+867,19157,10,1,"Poweshiek, Iowa",0.1
+868,0,0,0,0,0.0
+869,0,0,0,0,0.0
+870,19163,159,3,"Scott, Iowa",0.019
+871,19165,9,0,"Shelby, Iowa",0.0
+872,19167,7,0,"Sioux, Iowa",0.0
+873,19169,18,0,"Story, Iowa",0.0
+874,19171,187,6,"Tama, Iowa",0.032
+875,19173,1,0,"Taylor, Iowa",0.0
+876,19175,1,0,"Union, Iowa",0.0
+877,19177,8,0,"Van Buren, Iowa",0.0
+878,19179,6,0,"Wapello, Iowa",0.0
+879,19181,18,0,"Warren, Iowa",0.0
+880,19183,118,5,"Washington, Iowa",0.042
+881,0,0,0,0,0.0
+882,19187,3,0,"Webster, Iowa",0.0
+883,19189,2,0,"Winnebago, Iowa",0.0
+884,19191,6,0,"Winneshiek, Iowa",0.0
+885,19193,37,0,"Woodbury, Iowa",0.0
+886,19195,1,0,"Worth, Iowa",0.0
+887,19197,1,0,"Wright, Iowa",0.0
+888,0,0,0,0,0.0
+889,0,0,0,0,0.0
+890,20005,5,0,"Atchison, Kansas",0.0
+891,20007,1,0,"Barber, Kansas",0.0
+892,20009,6,0,"Barton, Kansas",0.0
+893,20011,7,1,"Bourbon, Kansas",0.143
+894,0,0,0,0,0.0
+895,20015,12,0,"Butler, Kansas",0.0
+896,20017,1,0,"Chase, Kansas",0.0
+897,20019,3,0,"Chautauqua, Kansas",0.0
+898,20021,7,0,"Cherokee, Kansas",0.0
+899,0,0,0,0,0.0
+900,0,0,0,0,0.0
+901,20027,2,0,"Clay, Kansas",0.0
+902,20029,3,0,"Cloud, Kansas",0.0
+903,20031,47,6,"Coffey, Kansas",0.128
+904,0,0,0,0,0.0
+905,20035,1,1,"Cowley, Kansas",1.0
+906,20037,6,1,"Crawford, Kansas",0.167
+907,0,0,0,0,0.0
+908,20041,1,0,"Dickinson, Kansas",0.0
+909,20043,1,0,"Doniphan, Kansas",0.0
+910,20045,43,0,"Douglas, Kansas",0.0
+911,0,0,0,0,0.0
+912,0,0,0,0,0.0
+913,20051,8,0,"Ellis, Kansas",0.0
+914,0,0,0,0,0.0
+915,20055,35,1,"Finney, Kansas",0.029
+916,20057,127,0,"Ford, Kansas",0.0
+917,20059,12,0,"Franklin, Kansas",0.0
+918,20061,9,0,"Geary, Kansas",0.0
+919,20063,1,0,"Gove, Kansas",0.0
+920,0,0,0,0,0.0
+921,0,0,0,0,0.0
+922,20069,1,0,"Gray, Kansas",0.0
+923,0,0,0,0,0.0
+924,20073,2,0,"Greenwood, Kansas",0.0
+925,20075,1,0,"Hamilton, Kansas",0.0
+926,0,0,0,0,0.0
+927,20079,5,0,"Harvey, Kansas",0.0
+928,0,0,0,0,0.0
+929,0,0,0,0,0.0
+930,20085,1,0,"Jackson, Kansas",0.0
+931,20087,5,0,"Jefferson, Kansas",0.0
+932,20089,4,0,"Jewell, Kansas",0.0
+933,20091,372,30,"Johnson, Kansas",0.081
+934,20093,1,0,"Kearny, Kansas",0.0
+935,0,0,0,0,0.0
+936,0,0,0,0,0.0
+937,20099,20,0,"Labette, Kansas",0.0
+938,0,0,0,0,0.0
+939,20103,128,2,"Leavenworth, Kansas",0.016
+940,0,0,0,0,0.0
+941,20107,6,0,"Linn, Kansas",0.0
+942,0,0,0,0,0.0
+943,20111,77,0,"Lyon, Kansas",0.0
+944,20113,16,0,"McPherson, Kansas",0.0
+945,20115,5,0,"Marion, Kansas",0.0
+946,0,0,0,0,0.0
+947,0,0,0,0,0.0
+948,20121,4,0,"Miami, Kansas",0.0
+949,20123,2,0,"Mitchell, Kansas",0.0
+950,20125,12,2,"Montgomery, Kansas",0.167
+951,20127,2,0,"Morris, Kansas",0.0
+952,20129,2,0,"Morton, Kansas",0.0
+953,0,0,0,0,0.0
+954,20133,2,0,"Neosho, Kansas",0.0
+955,0,0,0,0,0.0
+956,0,0,0,0,0.0
+957,20139,4,0,"Osage, Kansas",0.0
+958,20141,2,0,"Osborne, Kansas",0.0
+959,20143,3,0,"Ottawa, Kansas",0.0
+960,0,0,0,0,0.0
+961,20147,1,0,"Phillips, Kansas",0.0
+962,20149,6,0,"Pottawatomie, Kansas",0.0
+963,20151,1,0,"Pratt, Kansas",0.0
+964,0,0,0,0,0.0
+965,20155,14,0,"Reno, Kansas",0.0
+966,20157,4,0,"Republic, Kansas",0.0
+967,0,0,0,0,0.0
+968,20161,27,0,"Riley, Kansas",0.0
+969,20163,4,0,"Rooks, Kansas",0.0
+970,0,0,0,0,0.0
+971,0,0,0,0,0.0
+972,20169,15,2,"Saline, Kansas",0.133
+973,20171,1,0,"Scott, Kansas",0.0
+974,20173,242,4,"Sedgwick, Kansas",0.017
+975,20175,47,0,"Seward, Kansas",0.0
+976,20177,91,5,"Shawnee, Kansas",0.055
+977,0,0,0,0,0.0
+978,20181,1,0,"Sherman, Kansas",0.0
+979,20183,2,0,"Smith, Kansas",0.0
+980,20185,1,0,"Stafford, Kansas",0.0
+981,20187,3,0,"Stanton, Kansas",0.0
+982,20189,3,0,"Stevens, Kansas",0.0
+983,20191,3,1,"Sumner, Kansas",0.333
+984,0,0,0,0,0.0
+985,0,0,0,0,0.0
+986,20197,1,0,"Wabaunsee, Kansas",0.0
+987,0,0,0,0,0.0
+988,0,0,0,0,0.0
+989,0,0,0,0,0.0
+990,20205,1,0,"Wilson, Kansas",0.0
+991,20207,5,0,"Woodson, Kansas",0.0
+992,20209,417,37,"Wyandotte, Kansas",0.089
+993,21001,53,3,"Adair, Kentucky",0.057
+994,21003,4,0,"Allen, Kentucky",0.0
+995,21005,6,1,"Anderson, Kentucky",0.167
+996,21007,4,0,"Ballard, Kentucky",0.0
+997,21009,6,0,"Barren, Kentucky",0.0
+998,21011,3,0,"Bath, Kentucky",0.0
+999,0,0,0,0,0.0
+1000,21015,81,2,"Boone, Kentucky",0.025
+1001,21017,7,1,"Bourbon, Kentucky",0.143
+1002,21019,29,2,"Boyd, Kentucky",0.069
+1003,21021,13,0,"Boyle, Kentucky",0.0
+1004,21023,7,0,"Bracken, Kentucky",0.0
+1005,21025,1,0,"Breathitt, Kentucky",0.0
+1006,21027,6,0,"Breckinridge, Kentucky",0.0
+1007,21029,33,2,"Bullitt, Kentucky",0.061
+1008,21031,73,2,"Butler, Kentucky",0.027
+1009,21033,11,0,"Caldwell, Kentucky",0.0
+1010,21035,21,1,"Calloway, Kentucky",0.048
+1011,21037,56,6,"Campbell, Kentucky",0.107
+1012,0,0,0,0,0.0
+1013,21041,2,0,"Carroll, Kentucky",0.0
+1014,21043,4,0,"Carter, Kentucky",0.0
+1015,21045,1,0,"Casey, Kentucky",0.0
+1016,21047,79,3,"Christian, Kentucky",0.038
+1017,21049,18,0,"Clark, Kentucky",0.0
+1018,21051,1,0,"Clay, Kentucky",0.0
+1019,21053,2,0,"Clinton, Kentucky",0.0
+1020,21055,3,0,"Crittenden, Kentucky",0.0
+1021,21057,3,0,"Cumberland, Kentucky",0.0
+1022,21059,125,3,"Daviess, Kentucky",0.024
+1023,21061,7,0,"Edmonson, Kentucky",0.0
+1024,0,0,0,0,0.0
+1025,0,0,0,0,0.0
+1026,21067,219,7,"Fayette, Kentucky",0.032
+1027,21069,2,0,"Fleming, Kentucky",0.0
+1028,21071,4,0,"Floyd, Kentucky",0.0
+1029,21073,13,0,"Franklin, Kentucky",0.0
+1030,21075,1,0,"Fulton, Kentucky",0.0
+1031,21077,1,0,"Gallatin, Kentucky",0.0
+1032,21079,1,0,"Garrard, Kentucky",0.0
+1033,21081,16,1,"Grant, Kentucky",0.062
+1034,21083,51,2,"Graves, Kentucky",0.039
+1035,21085,14,0,"Grayson, Kentucky",0.0
+1036,21087,1,0,"Green, Kentucky",0.0
+1037,21089,10,0,"Greenup, Kentucky",0.0
+1038,21091,6,0,"Hancock, Kentucky",0.0
+1039,21093,29,0,"Hardin, Kentucky",0.0
+1040,0,0,0,0,0.0
+1041,21097,16,0,"Harrison, Kentucky",0.0
+1042,21099,1,0,"Hart, Kentucky",0.0
+1043,21101,28,0,"Henderson, Kentucky",0.0
+1044,21103,4,0,"Henry, Kentucky",0.0
+1045,0,0,0,0,0.0
+1046,21107,111,10,"Hopkins, Kentucky",0.09
+1047,21109,55,3,"Jackson, Kentucky",0.055
+1048,21111,814,60,"Jefferson, Kentucky",0.074
+1049,21113,32,0,"Jessamine, Kentucky",0.0
+1050,21115,1,0,"Johnson, Kentucky",0.0
+1051,21117,149,10,"Kenton, Kentucky",0.067
+1052,21119,3,0,"Knott, Kentucky",0.0
+1053,21121,5,0,"Knox, Kentucky",0.0
+1054,21123,5,0,"Larue, Kentucky",0.0
+1055,21125,13,2,"Laurel, Kentucky",0.154
+1056,21127,1,0,"Lawrence, Kentucky",0.0
+1057,0,0,0,0,0.0
+1058,21131,2,0,"Leslie, Kentucky",0.0
+1059,21133,1,0,"Letcher, Kentucky",0.0
+1060,21135,3,0,"Lewis, Kentucky",0.0
+1061,21137,4,1,"Lincoln, Kentucky",0.25
+1062,21139,1,0,"Livingston, Kentucky",0.0
+1063,21141,8,0,"Logan, Kentucky",0.0
+1064,21143,13,2,"Lyon, Kentucky",0.154
+1065,21145,29,2,"McCracken, Kentucky",0.069
+1066,21147,10,0,"McCreary, Kentucky",0.0
+1067,21149,8,1,"McLean, Kentucky",0.125
+1068,21151,21,1,"Madison, Kentucky",0.048
+1069,0,0,0,0,0.0
+1070,21155,13,0,"Marion, Kentucky",0.0
+1071,21157,12,0,"Marshall, Kentucky",0.0
+1072,21159,2,0,"Martin, Kentucky",0.0
+1073,21161,6,0,"Mason, Kentucky",0.0
+1074,21163,3,1,"Meade, Kentucky",0.333
+1075,21165,3,0,"Menifee, Kentucky",0.0
+1076,21167,9,0,"Mercer, Kentucky",0.0
+1077,0,0,0,0,0.0
+1078,21171,3,0,"Monroe, Kentucky",0.0
+1079,21173,9,0,"Montgomery, Kentucky",0.0
+1080,21175,1,0,"Morgan, Kentucky",0.0
+1081,21177,75,2,"Muhlenberg, Kentucky",0.027
+1082,21179,13,0,"Nelson, Kentucky",0.0
+1083,21181,1,0,"Nicholas, Kentucky",0.0
+1084,21183,17,0,"Ohio, Kentucky",0.0
+1085,21185,22,0,"Oldham, Kentucky",0.0
+1086,0,0,0,0,0.0
+1087,21189,2,0,"Owsley, Kentucky",0.0
+1088,21191,5,0,"Pendleton, Kentucky",0.0
+1089,21193,4,0,"Perry, Kentucky",0.0
+1090,21195,6,1,"Pike, Kentucky",0.167
+1091,21197,1,0,"Powell, Kentucky",0.0
+1092,21199,35,2,"Pulaski, Kentucky",0.057
+1093,0,0,0,0,0.0
+1094,21203,11,0,"Rockcastle, Kentucky",0.0
+1095,21205,1,0,"Rowan, Kentucky",0.0
+1096,21207,15,2,"Russell, Kentucky",0.133
+1097,21209,23,0,"Scott, Kentucky",0.0
+1098,21211,23,2,"Shelby, Kentucky",0.087
+1099,21213,21,2,"Simpson, Kentucky",0.095
+1100,21215,9,0,"Spencer, Kentucky",0.0
+1101,21217,5,0,"Taylor, Kentucky",0.0
+1102,21219,9,0,"Todd, Kentucky",0.0
+1103,21221,4,0,"Trigg, Kentucky",0.0
+1104,21223,2,0,"Trimble, Kentucky",0.0
+1105,21225,8,0,"Union, Kentucky",0.0
+1106,21227,95,0,"Warren, Kentucky",0.0
+1107,21229,3,0,"Washington, Kentucky",0.0
+1108,21231,6,0,"Wayne, Kentucky",0.0
+1109,21233,13,0,"Webster, Kentucky",0.0
+1110,21235,8,0,"Whitley, Kentucky",0.0
+1111,0,0,0,0,0.0
+1112,21239,18,0,"Woodford, Kentucky",0.0
+1113,22001,110,7,"Acadia, Louisiana",0.064
+1114,22003,79,9,"Allen, Louisiana",0.114
+1115,22005,508,30,"Ascension, Louisiana",0.059
+1116,22007,146,1,"Assumption, Louisiana",0.007
+1117,22009,69,3,"Avoyelles, Louisiana",0.043
+1118,22011,35,2,"Beauregard, Louisiana",0.057
+1119,22013,66,9,"Bienville, Louisiana",0.136
+1120,22015,233,11,"Bossier, Louisiana",0.047
+1121,22017,1261,70,"Caddo, Louisiana",0.056
+1122,22019,323,19,"Calcasieu, Louisiana",0.059
+1123,22021,15,0,"Caldwell, Louisiana",0.0
+1124,22023,3,0,"Cameron, Louisiana",0.0
+1125,22025,24,1,"Catahoula, Louisiana",0.042
+1126,22027,50,5,"Claiborne, Louisiana",0.1
+1127,22029,26,2,"Concordia, Louisiana",0.077
+1128,22031,156,8,"De Soto, Louisiana",0.051
+1129,22033,1512,72,"East Baton Rouge, Louisiana",0.048
+1130,22035,1,0,"East Carroll, Louisiana",0.0
+1131,22037,93,7,"East Feliciana, Louisiana",0.075
+1132,22039,43,0,"Evangeline, Louisiana",0.0
+1133,22041,81,2,"Franklin, Louisiana",0.025
+1134,22043,12,0,"Grant, Louisiana",0.0
+1135,22045,184,8,"Iberia, Louisiana",0.043
+1136,22047,274,21,"Iberville, Louisiana",0.077
+1137,22049,14,0,"Jackson, Louisiana",0.0
+1138,22051,5592,282,"Jefferson, Louisiana",0.05
+1139,22053,55,5,"Jefferson Davis, Louisiana",0.091
+1140,22055,419,17,"Lafayette, Louisiana",0.041
+1141,22057,566,25,"Lafourche, Louisiana",0.044
+1142,22059,13,0,"LaSalle, Louisiana",0.0
+1143,22061,49,2,"Lincoln, Louisiana",0.041
+1144,22063,148,8,"Livingston, Louisiana",0.054
+1145,22065,4,0,"Madison, Louisiana",0.0
+1146,22067,37,3,"Morehouse, Louisiana",0.081
+1147,22069,57,1,"Natchitoches, Louisiana",0.018
+1148,22071,6000,329,"Orleans, Louisiana",0.055
+1149,22073,511,13,"Ouachita, Louisiana",0.025
+1150,22075,157,11,"Plaquemines, Louisiana",0.07
+1151,22077,69,6,"Pointe Coupee, Louisiana",0.087
+1152,22079,210,7,"Rapides, Louisiana",0.033
+1153,22081,20,3,"Red River, Louisiana",0.15
+1154,22083,33,0,"Richland, Louisiana",0.0
+1155,22085,13,0,"Sabine, Louisiana",0.0
+1156,22087,411,12,"St. Bernard, Louisiana",0.029
+1157,22089,488,28,"St. Charles, Louisiana",0.057
+1158,22091,19,1,"St. Helena, Louisiana",0.053
+1159,22093,218,15,"St. James, Louisiana",0.069
+1160,22095,642,53,"St. John the Baptist, Louisiana",0.083
+1161,22097,134,20,"St. Landry, Louisiana",0.149
+1162,22099,190,12,"St. Martin, Louisiana",0.063
+1163,22101,149,11,"St. Mary, Louisiana",0.074
+1164,22103,1011,71,"St. Tammany, Louisiana",0.07
+1165,22105,442,18,"Tangipahoa, Louisiana",0.041
+1166,22107,1,0,"Tensas, Louisiana",0.0
+1167,22109,320,21,"Terrebonne, Louisiana",0.066
+1168,22111,78,5,"Union, Louisiana",0.064
+1169,22113,30,1,"Vermilion, Louisiana",0.033
+1170,22115,14,1,"Vernon, Louisiana",0.071
+1171,22117,191,11,"Washington, Louisiana",0.058
+1172,22119,76,4,"Webster, Louisiana",0.053
+1173,22121,88,10,"West Baton Rouge, Louisiana",0.114
+1174,22123,4,0,"West Carroll, Louisiana",0.0
+1175,22125,74,0,"West Feliciana, Louisiana",0.0
+1176,22127,19,2,"Winn, Louisiana",0.105
+1177,23001,35,1,"Androscoggin, Maine",0.029
+1178,23003,2,0,"Aroostook, Maine",0.0
+1179,23005,378,16,"Cumberland, Maine",0.042
+1180,23007,12,0,"Franklin, Maine",0.0
+1181,23009,6,0,"Hancock, Maine",0.0
+1182,23011,97,4,"Kennebec, Maine",0.041
+1183,23013,12,0,"Knox, Maine",0.0
+1184,23015,12,0,"Lincoln, Maine",0.0
+1185,23017,14,0,"Oxford, Maine",0.0
+1186,23019,43,0,"Penobscot, Maine",0.0
+1187,23021,1,0,"Piscataquis, Maine",0.0
+1188,23023,16,0,"Sagadahoc, Maine",0.0
+1189,23025,16,0,"Somerset, Maine",0.0
+1190,23027,42,7,"Waldo, Maine",0.167
+1191,23029,2,0,"Washington, Maine",0.0
+1192,23031,177,6,"York, Maine",0.034
+1193,24001,33,1,"Allegany, Maryland",0.03
+1194,24003,1047,46,"Anne Arundel, Maryland",0.044
+1195,24005,1733,50,"Baltimore, Maryland",0.029
+1196,24009,113,3,"Calvert, Maryland",0.027
+1197,24011,33,0,"Caroline, Maryland",0.0
+1198,24013,313,28,"Carroll, Maryland",0.089
+1199,24015,131,3,"Cecil, Maryland",0.023
+1200,24017,370,17,"Charles, Maryland",0.046
+1201,24019,21,1,"Dorchester, Maryland",0.048
+1202,24021,591,30,"Frederick, Maryland",0.051
+1203,24023,4,0,"Garrett, Maryland",0.0
+1204,24025,210,6,"Harford, Maryland",0.029
+1205,24027,515,12,"Howard, Maryland",0.023
+1206,24029,18,1,"Kent, Maryland",0.056
+1207,24031,2507,96,"Montgomery, Maryland",0.038
+1208,24033,3345,105,"Prince George's, Maryland",0.031
+1209,24035,25,2,"Queen Anne's, Maryland",0.08
+1210,24037,122,2,"St. Mary's, Maryland",0.016
+1211,24039,10,0,"Somerset, Maryland",0.0
+1212,24041,19,1,"Talbot, Maryland",0.053
+1213,24043,117,3,"Washington, Maryland",0.026
+1214,24045,145,3,"Wicomico, Maryland",0.021
+1215,24047,33,0,"Worcester, Maryland",0.0
+1216,24510,1392,51,"Baltimore City, Maryland",0.037
+1217,25001,632,21,"Barnstable, Massachusetts",0.033
+1218,25003,387,27,"Berkshire, Massachusetts",0.07
+1219,25005,1731,87,"Bristol, Massachusetts",0.05
+1220,0,0,0,0,0.0
+1221,25009,5153,209,"Essex, Massachusetts",0.041
+1222,25011,181,26,"Franklin, Massachusetts",0.144
+1223,25013,2337,211,"Hampden, Massachusetts",0.09
+1224,25015,317,7,"Hampshire, Massachusetts",0.022
+1225,25017,8737,372,"Middlesex, Massachusetts",0.043
+1226,0,0,0,0,0.0
+1227,25021,3789,244,"Norfolk, Massachusetts",0.064
+1228,25023,2832,131,"Plymouth, Massachusetts",0.046
+1229,25025,8074,236,"Suffolk, Massachusetts",0.029
+1230,25027,3069,114,"Worcester, Massachusetts",0.037
+1231,26001,1,0,"Alcona, Michigan",0.0
+1232,0,0,0,0,0.0
+1233,26005,41,0,"Allegan, Michigan",0.0
+1234,26007,14,1,"Alpena, Michigan",0.071
+1235,26009,9,0,"Antrim, Michigan",0.0
+1236,26011,11,0,"Arenac, Michigan",0.0
+1237,0,0,0,0,0.0
+1238,26015,25,1,"Barry, Michigan",0.04
+1239,26017,82,2,"Bay, Michigan",0.024
+1240,26019,3,0,"Benzie, Michigan",0.0
+1241,26021,158,8,"Berrien, Michigan",0.051
+1242,26023,38,2,"Branch, Michigan",0.053
+1243,26025,141,5,"Calhoun, Michigan",0.035
+1244,26027,22,1,"Cass, Michigan",0.045
+1245,26029,12,1,"Charlevoix, Michigan",0.083
+1246,26031,14,1,"Cheboygan, Michigan",0.071
+1247,26033,1,0,"Chippewa, Michigan",0.0
+1248,26035,8,1,"Clare, Michigan",0.125
+1249,26037,103,6,"Clinton, Michigan",0.058
+1250,26039,29,2,"Crawford, Michigan",0.069
+1251,26041,12,1,"Delta, Michigan",0.083
+1252,26043,3,2,"Dickinson, Michigan",0.667
+1253,26045,88,5,"Eaton, Michigan",0.057
+1254,26047,21,2,"Emmet, Michigan",0.095
+1255,26049,1240,115,"Genesee, Michigan",0.093
+1256,26051,9,0,"Gladwin, Michigan",0.0
+1257,26053,4,1,"Gogebic, Michigan",0.25
+1258,26055,18,4,"Grand Traverse, Michigan",0.222
+1259,26057,8,1,"Gratiot, Michigan",0.125
+1260,26059,90,11,"Hillsdale, Michigan",0.122
+1261,26061,2,0,"Houghton, Michigan",0.0
+1262,26063,10,0,"Huron, Michigan",0.0
+1263,26065,308,6,"Ingham, Michigan",0.019
+1264,26067,24,2,"Ionia, Michigan",0.083
+1265,26069,11,1,"Iosco, Michigan",0.091
+1266,0,0,0,0,0.0
+1267,26073,52,7,"Isabella, Michigan",0.135
+1268,26075,248,10,"Jackson, Michigan",0.04
+1269,26077,166,9,"Kalamazoo, Michigan",0.054
+1270,26079,17,2,"Kalkaska, Michigan",0.118
+1271,26081,503,25,"Kent, Michigan",0.05
+1272,0,0,0,0,0.0
+1273,26085,2,0,"Lake, Michigan",0.0
+1274,26087,143,18,"Lapeer, Michigan",0.126
+1275,26089,8,0,"Leelanau, Michigan",0.0
+1276,26091,64,0,"Lenawee, Michigan",0.0
+1277,26093,279,11,"Livingston, Michigan",0.039
+1278,26095,1,0,"Luce, Michigan",0.0
+1279,26097,4,0,"Mackinac, Michigan",0.0
+1280,26099,4360,391,"Macomb, Michigan",0.09
+1281,26101,11,0,"Manistee, Michigan",0.0
+1282,26103,32,6,"Marquette, Michigan",0.188
+1283,26105,4,0,"Mason, Michigan",0.0
+1284,26107,12,1,"Mecosta, Michigan",0.083
+1285,26109,1,0,"Menominee, Michigan",0.0
+1286,26111,45,2,"Midland, Michigan",0.044
+1287,26113,4,1,"Missaukee, Michigan",0.25
+1288,26115,233,10,"Monroe, Michigan",0.043
+1289,26117,24,1,"Montcalm, Michigan",0.042
+1290,26119,4,0,"Montmorency, Michigan",0.0
+1291,26121,143,6,"Muskegon, Michigan",0.042
+1292,26123,7,0,"Newaygo, Michigan",0.0
+1293,26125,6109,471,"Oakland, Michigan",0.077
+1294,26127,3,1,"Oceana, Michigan",0.333
+1295,26129,6,0,"Ogemaw, Michigan",0.0
+1296,0,0,0,0,0.0
+1297,26133,6,0,"Osceola, Michigan",0.0
+1298,26135,5,0,"Oscoda, Michigan",0.0
+1299,26137,72,5,"Otsego, Michigan",0.069
+1300,26139,107,5,"Ottawa, Michigan",0.047
+1301,26141,2,0,"Presque Isle, Michigan",0.0
+1302,26143,10,0,"Roscommon, Michigan",0.0
+1303,26145,404,24,"Saginaw, Michigan",0.059
+1304,26147,244,11,"St. Clair, Michigan",0.045
+1305,26149,25,1,"St. Joseph, Michigan",0.04
+1306,26151,33,3,"Sanilac, Michigan",0.091
+1307,26153,3,0,"Schoolcraft, Michigan",0.0
+1308,26155,94,2,"Shiawassee, Michigan",0.021
+1309,26157,61,11,"Tuscola, Michigan",0.18
+1310,26159,32,2,"Van Buren, Michigan",0.062
+1311,26161,870,30,"Washtenaw, Michigan",0.034
+1312,26163,13692,1119,"Wayne, Michigan",0.082
+1313,26165,7,1,"Wexford, Michigan",0.143
+1314,27001,1,0,"Aitkin, Minnesota",0.0
+1315,27003,93,2,"Anoka, Minnesota",0.022
+1316,27005,1,0,"Becker, Minnesota",0.0
+1317,27007,5,0,"Beltrami, Minnesota",0.0
+1318,27009,4,0,"Benton, Minnesota",0.0
+1319,27011,1,0,"Big Stone, Minnesota",0.0
+1320,27013,23,0,"Blue Earth, Minnesota",0.0
+1321,27015,7,1,"Brown, Minnesota",0.143
+1322,27017,36,0,"Carlton, Minnesota",0.0
+1323,27019,14,0,"Carver, Minnesota",0.0
+1324,27021,4,0,"Cass, Minnesota",0.0
+1325,0,0,0,0,0.0
+1326,27025,7,1,"Chisago, Minnesota",0.143
+1327,27027,55,2,"Clay, Minnesota",0.036
+1328,27029,3,0,"Clearwater, Minnesota",0.0
+1329,0,0,0,0,0.0
+1330,27033,6,0,"Cottonwood, Minnesota",0.0
+1331,27035,19,0,"Crow Wing, Minnesota",0.0
+1332,27037,116,6,"Dakota, Minnesota",0.052
+1333,27039,18,0,"Dodge, Minnesota",0.0
+1334,27041,2,0,"Douglas, Minnesota",0.0
+1335,27043,4,0,"Faribault, Minnesota",0.0
+1336,27045,10,0,"Fillmore, Minnesota",0.0
+1337,27047,34,0,"Freeborn, Minnesota",0.0
+1338,27049,19,0,"Goodhue, Minnesota",0.0
+1339,0,0,0,0,0.0
+1340,27053,924,75,"Hennepin, Minnesota",0.081
+1341,27055,1,0,"Houston, Minnesota",0.0
+1342,0,0,0,0,0.0
+1343,27059,5,0,"Isanti, Minnesota",0.0
+1344,27061,2,0,"Itasca, Minnesota",0.0
+1345,27063,2,0,"Jackson, Minnesota",0.0
+1346,0,0,0,0,0.0
+1347,27067,2,0,"Kandiyohi, Minnesota",0.0
+1348,27069,1,0,"Kittson, Minnesota",0.0
+1349,27071,1,0,"Koochiching, Minnesota",0.0
+1350,27073,1,0,"Lac qui Parle, Minnesota",0.0
+1351,0,0,0,0,0.0
+1352,0,0,0,0,0.0
+1353,27079,22,0,"Le Sueur, Minnesota",0.0
+1354,27081,2,0,"Lincoln, Minnesota",0.0
+1355,27083,5,0,"Lyon, Minnesota",0.0
+1356,27085,3,0,"McLeod, Minnesota",0.0
+1357,27087,1,0,"Mahnomen, Minnesota",0.0
+1358,27089,1,0,"Marshall, Minnesota",0.0
+1359,27091,39,4,"Martin, Minnesota",0.103
+1360,27093,3,0,"Meeker, Minnesota",0.0
+1361,27095,1,1,"Mille Lacs, Minnesota",1.0
+1362,27097,1,0,"Morrison, Minnesota",0.0
+1363,27099,27,0,"Mower, Minnesota",0.0
+1364,27101,3,0,"Murray, Minnesota",0.0
+1365,27103,7,2,"Nicollet, Minnesota",0.286
+1366,27105,60,0,"Nobles, Minnesota",0.0
+1367,27107,4,0,"Norman, Minnesota",0.0
+1368,27109,194,3,"Olmsted, Minnesota",0.015
+1369,27111,6,0,"Otter Tail, Minnesota",0.0
+1370,0,0,0,0,0.0
+1371,27115,10,0,"Pine, Minnesota",0.0
+1372,27117,2,0,"Pipestone, Minnesota",0.0
+1373,27119,3,0,"Polk, Minnesota",0.0
+1374,0,0,0,0,0.0
+1375,27123,196,9,"Ramsey, Minnesota",0.046
+1376,27125,1,0,"Red Lake, Minnesota",0.0
+1377,27127,1,0,"Redwood, Minnesota",0.0
+1378,27129,3,0,"Renville, Minnesota",0.0
+1379,27131,8,1,"Rice, Minnesota",0.125
+1380,27133,3,0,"Rock, Minnesota",0.0
+1381,27135,1,0,"Roseau, Minnesota",0.0
+1382,27137,48,9,"St. Louis, Minnesota",0.188
+1383,27139,25,1,"Scott, Minnesota",0.04
+1384,27141,13,0,"Sherburne, Minnesota",0.0
+1385,27143,1,0,"Sibley, Minnesota",0.0
+1386,27145,16,0,"Stearns, Minnesota",0.0
+1387,27147,9,0,"Steele, Minnesota",0.0
+1388,0,0,0,0,0.0
+1389,27151,1,0,"Swift, Minnesota",0.0
+1390,27153,2,0,"Todd, Minnesota",0.0
+1391,27155,2,0,"Traverse, Minnesota",0.0
+1392,27157,8,0,"Wabasha, Minnesota",0.0
+1393,0,0,0,0,0.0
+1394,27161,3,0,"Waseca, Minnesota",0.0
+1395,27163,94,4,"Washington, Minnesota",0.043
+1396,27165,4,0,"Watonwan, Minnesota",0.0
+1397,27167,9,2,"Wilkin, Minnesota",0.222
+1398,27169,61,10,"Winona, Minnesota",0.164
+1399,27171,25,1,"Wright, Minnesota",0.04
+1400,27173,3,0,"Yellow Medicine, Minnesota",0.0
+1401,28001,81,6,"Adams, Mississippi",0.074
+1402,28003,8,0,"Alcorn, Mississippi",0.0
+1403,28005,17,0,"Amite, Mississippi",0.0
+1404,28007,36,0,"Attala, Mississippi",0.0
+1405,28009,7,0,"Benton, Mississippi",0.0
+1406,28011,82,5,"Bolivar, Mississippi",0.061
+1407,28013,39,2,"Calhoun, Mississippi",0.051
+1408,28015,14,1,"Carroll, Mississippi",0.071
+1409,28017,43,2,"Chickasaw, Mississippi",0.047
+1410,28019,12,1,"Choctaw, Mississippi",0.083
+1411,28021,10,0,"Claiborne, Mississippi",0.0
+1412,28023,27,2,"Clarke, Mississippi",0.074
+1413,28025,25,1,"Clay, Mississippi",0.04
+1414,28027,48,2,"Coahoma, Mississippi",0.042
+1415,28029,46,1,"Copiah, Mississippi",0.022
+1416,28031,29,0,"Covington, Mississippi",0.0
+1417,28033,234,3,"DeSoto, Mississippi",0.013
+1418,28035,144,4,"Forrest, Mississippi",0.028
+1419,28037,16,0,"Franklin, Mississippi",0.0
+1420,28039,10,1,"George, Mississippi",0.1
+1421,28041,3,0,"Greene, Mississippi",0.0
+1422,28043,20,0,"Grenada, Mississippi",0.0
+1423,28045,52,5,"Hancock, Mississippi",0.096
+1424,28047,144,5,"Harrison, Mississippi",0.035
+1425,28049,337,5,"Hinds, Mississippi",0.015
+1426,28051,58,4,"Holmes, Mississippi",0.069
+1427,28053,12,3,"Humphreys, Mississippi",0.25
+1428,0,0,0,0,0.0
+1429,28057,21,1,"Itawamba, Mississippi",0.048
+1430,28059,205,6,"Jackson, Mississippi",0.029
+1431,28061,23,1,"Jasper, Mississippi",0.043
+1432,28063,4,0,"Jefferson, Mississippi",0.0
+1433,28065,8,1,"Jefferson Davis, Mississippi",0.125
+1434,28067,70,0,"Jones, Mississippi",0.0
+1435,28069,19,0,"Kemper, Mississippi",0.0
+1436,28071,64,3,"Lafayette, Mississippi",0.047
+1437,28073,67,1,"Lamar, Mississippi",0.015
+1438,28075,202,14,"Lauderdale, Mississippi",0.069
+1439,28077,16,0,"Lawrence, Mississippi",0.0
+1440,28079,77,1,"Leake, Mississippi",0.013
+1441,28081,60,4,"Lee, Mississippi",0.067
+1442,28083,91,7,"Leflore, Mississippi",0.077
+1443,28085,101,6,"Lincoln, Mississippi",0.059
+1444,28087,32,1,"Lowndes, Mississippi",0.031
+1445,28089,135,4,"Madison, Mississippi",0.03
+1446,28091,43,1,"Marion, Mississippi",0.023
+1447,28093,38,2,"Marshall, Mississippi",0.053
+1448,28095,68,5,"Monroe, Mississippi",0.074
+1449,28097,15,1,"Montgomery, Mississippi",0.067
+1450,28099,65,2,"Neshoba, Mississippi",0.031
+1451,28101,26,0,"Newton, Mississippi",0.0
+1452,28103,22,0,"Noxubee, Mississippi",0.0
+1453,28105,43,2,"Oktibbeha, Mississippi",0.047
+1454,28107,35,2,"Panola, Mississippi",0.057
+1455,28109,126,10,"Pearl River, Mississippi",0.079
+1456,28111,22,1,"Perry, Mississippi",0.045
+1457,28113,104,2,"Pike, Mississippi",0.019
+1458,28115,18,2,"Pontotoc, Mississippi",0.111
+1459,28117,19,0,"Prentiss, Mississippi",0.0
+1460,28119,13,0,"Quitman, Mississippi",0.0
+1461,28121,133,2,"Rankin, Mississippi",0.015
+1462,28123,130,0,"Scott, Mississippi",0.0
+1463,28125,3,0,"Sharkey, Mississippi",0.0
+1464,28127,21,0,"Simpson, Mississippi",0.0
+1465,28129,45,1,"Smith, Mississippi",0.022
+1466,28131,18,0,"Stone, Mississippi",0.0
+1467,28133,47,2,"Sunflower, Mississippi",0.043
+1468,28135,8,1,"Tallahatchie, Mississippi",0.125
+1469,28137,31,0,"Tate, Mississippi",0.0
+1470,28139,47,7,"Tippah, Mississippi",0.149
+1471,28141,4,0,"Tishomingo, Mississippi",0.0
+1472,28143,31,1,"Tunica, Mississippi",0.032
+1473,28145,11,1,"Union, Mississippi",0.091
+1474,28147,24,0,"Walthall, Mississippi",0.0
+1475,28149,21,1,"Warren, Mississippi",0.048
+1476,28151,71,3,"Washington, Mississippi",0.042
+1477,28153,11,0,"Wayne, Mississippi",0.0
+1478,28155,15,1,"Webster, Mississippi",0.067
+1479,28157,58,5,"Wilkinson, Mississippi",0.086
+1480,28159,33,0,"Winston, Mississippi",0.0
+1481,28161,15,0,"Yalobusha, Mississippi",0.0
+1482,28163,91,1,"Yazoo, Mississippi",0.011
+1483,29001,12,0,"Adair, Missouri",0.0
+1484,29003,1,0,"Andrew, Missouri",0.0
+1485,29005,2,0,"Atchison, Missouri",0.0
+1486,0,0,0,0,0.0
+1487,29009,3,0,"Barry, Missouri",0.0
+1488,0,0,0,0,0.0
+1489,29013,6,1,"Bates, Missouri",0.167
+1490,29015,3,0,"Benton, Missouri",0.0
+1491,29017,3,0,"Bollinger, Missouri",0.0
+1492,29019,93,1,"Boone, Missouri",0.011
+1493,29021,31,1,"Buchanan, Missouri",0.032
+1494,29023,23,0,"Butler, Missouri",0.0
+1495,29025,2,0,"Caldwell, Missouri",0.0
+1496,29027,21,1,"Callaway, Missouri",0.048
+1497,29029,32,1,"Camden, Missouri",0.031
+1498,29031,36,1,"Cape Girardeau, Missouri",0.028
+1499,0,0,0,0,0.0
+1500,29035,3,1,"Carter, Missouri",0.333
+1501,29037,53,6,"Cass, Missouri",0.113
+1502,29039,5,0,"Cedar, Missouri",0.0
+1503,29041,4,0,"Chariton, Missouri",0.0
+1504,29043,19,0,"Christian, Missouri",0.0
+1505,29045,1,0,"Clark, Missouri",0.0
+1506,29047,57,1,"Clay, Missouri",0.018
+1507,29049,11,0,"Clinton, Missouri",0.0
+1508,29051,46,1,"Cole, Missouri",0.022
+1509,29053,4,0,"Cooper, Missouri",0.0
+1510,29055,6,0,"Crawford, Missouri",0.0
+1511,0,0,0,0,0.0
+1512,29059,2,0,"Dallas, Missouri",0.0
+1513,29061,2,0,"Daviess, Missouri",0.0
+1514,29063,3,0,"DeKalb, Missouri",0.0
+1515,0,0,0,0,0.0
+1516,0,0,0,0,0.0
+1517,29069,19,2,"Dunklin, Missouri",0.105
+1518,29071,98,7,"Franklin, Missouri",0.071
+1519,29073,2,0,"Gasconade, Missouri",0.0
+1520,29075,1,0,"Gentry, Missouri",0.0
+1521,29077,90,8,"Greene, Missouri",0.089
+1522,0,0,0,0,0.0
+1523,29081,6,0,"Harrison, Missouri",0.0
+1524,29083,6,1,"Henry, Missouri",0.167
+1525,0,0,0,0,0.0
+1526,29087,1,0,"Holt, Missouri",0.0
+1527,29089,2,0,"Howard, Missouri",0.0
+1528,29091,5,0,"Howell, Missouri",0.0
+1529,29093,2,0,"Iron, Missouri",0.0
+1530,29095,268,11,"Jackson, Missouri",0.041
+1531,29097,28,0,"Jasper, Missouri",0.0
+1532,29099,214,4,"Jefferson, Missouri",0.019
+1533,29101,48,0,"Johnson, Missouri",0.0
+1534,0,0,0,0,0.0
+1535,0,0,0,0,0.0
+1536,29107,30,1,"Lafayette, Missouri",0.033
+1537,0,0,0,0,0.0
+1538,0,0,0,0,0.0
+1539,29113,35,1,"Lincoln, Missouri",0.029
+1540,29115,5,1,"Linn, Missouri",0.2
+1541,29117,2,0,"Livingston, Missouri",0.0
+1542,29119,4,0,"McDonald, Missouri",0.0
+1543,29121,2,0,"Macon, Missouri",0.0
+1544,29123,1,0,"Madison, Missouri",0.0
+1545,29125,2,0,"Maries, Missouri",0.0
+1546,0,0,0,0,0.0
+1547,0,0,0,0,0.0
+1548,29131,1,0,"Miller, Missouri",0.0
+1549,0,0,0,0,0.0
+1550,29135,39,0,"Moniteau, Missouri",0.0
+1551,0,0,0,0,0.0
+1552,29139,7,0,"Montgomery, Missouri",0.0
+1553,29141,2,0,"Morgan, Missouri",0.0
+1554,29143,9,0,"New Madrid, Missouri",0.0
+1555,29145,9,0,"Newton, Missouri",0.0
+1556,29147,3,0,"Nodaway, Missouri",0.0
+1557,29149,1,0,"Oregon, Missouri",0.0
+1558,29151,4,0,"Osage, Missouri",0.0
+1559,0,0,0,0,0.0
+1560,29155,13,0,"Pemiscot, Missouri",0.0
+1561,29157,41,0,"Perry, Missouri",0.0
+1562,29159,13,0,"Pettis, Missouri",0.0
+1563,29161,1,0,"Phelps, Missouri",0.0
+1564,29163,6,0,"Pike, Missouri",0.0
+1565,29165,27,0,"Platte, Missouri",0.0
+1566,29167,1,0,"Polk, Missouri",0.0
+1567,29169,31,1,"Pulaski, Missouri",0.032
+1568,0,0,0,0,0.0
+1569,29173,1,0,"Ralls, Missouri",0.0
+1570,29175,8,0,"Randolph, Missouri",0.0
+1571,29177,7,0,"Ray, Missouri",0.0
+1572,29179,2,0,"Reynolds, Missouri",0.0
+1573,29181,4,0,"Ripley, Missouri",0.0
+1574,29183,443,19,"St. Charles, Missouri",0.043
+1575,29185,2,0,"St. Clair, Missouri",0.0
+1576,29186,7,1,"Ste. Genevieve, Missouri",0.143
+1577,29187,24,1,"St. Francois, Missouri",0.042
+1578,29189,2235,81,"St. Louis, Missouri",0.036
+1579,29195,64,0,"Saline, Missouri",0.0
+1580,0,0,0,0,0.0
+1581,29199,4,0,"Scotland, Missouri",0.0
+1582,29201,51,1,"Scott, Missouri",0.02
+1583,0,0,0,0,0.0
+1584,29205,1,0,"Shelby, Missouri",0.0
+1585,29207,18,0,"Stoddard, Missouri",0.0
+1586,29209,3,0,"Stone, Missouri",0.0
+1587,0,0,0,0,0.0
+1588,29213,9,1,"Taney, Missouri",0.111
+1589,0,0,0,0,0.0
+1590,29217,4,0,"Vernon, Missouri",0.0
+1591,29219,22,0,"Warren, Missouri",0.0
+1592,29221,4,0,"Washington, Missouri",0.0
+1593,0,0,0,0,0.0
+1594,29225,8,0,"Webster, Missouri",0.0
+1595,29227,1,0,"Worth, Missouri",0.0
+1596,29229,9,0,"Wright, Missouri",0.0
+1597,29510,831,30,"St. Louis City, Missouri",0.036
+1598,30001,1,0,"Beaverhead, Montana",0.0
+1599,30003,3,0,"Big Horn, Montana",0.0
+1600,0,0,0,0,0.0
+1601,30007,4,0,"Broadwater, Montana",0.0
+1602,30009,6,0,"Carbon, Montana",0.0
+1603,0,0,0,0,0.0
+1604,30013,13,1,"Cascade, Montana",0.077
+1605,0,0,0,0,0.0
+1606,0,0,0,0,0.0
+1607,0,0,0,0,0.0
+1608,0,0,0,0,0.0
+1609,30023,3,0,"Deer Lodge, Montana",0.0
+1610,0,0,0,0,0.0
+1611,0,0,0,0,0.0
+1612,30029,37,1,"Flathead, Montana",0.027
+1613,30031,143,0,"Gallatin, Montana",0.0
+1614,0,0,0,0,0.0
+1615,30035,4,0,"Glacier, Montana",0.0
+1616,30037,3,0,"Golden Valley, Montana",0.0
+1617,0,0,0,0,0.0
+1618,30041,1,0,"Hill, Montana",0.0
+1619,30043,2,0,"Jefferson, Montana",0.0
+1620,0,0,0,0,0.0
+1621,30047,5,0,"Lake, Montana",0.0
+1622,30049,16,0,"Lewis and Clark, Montana",0.0
+1623,30051,1,0,"Liberty, Montana",0.0
+1624,30053,7,1,"Lincoln, Montana",0.143
+1625,0,0,0,0,0.0
+1626,30057,8,1,"Madison, Montana",0.125
+1627,30059,1,0,"Meagher, Montana",0.0
+1628,0,0,0,0,0.0
+1629,30063,38,1,"Missoula, Montana",0.026
+1630,30065,1,0,"Musselshell, Montana",0.0
+1631,30067,7,0,"Park, Montana",0.0
+1632,0,0,0,0,0.0
+1633,0,0,0,0,0.0
+1634,30073,2,0,"Pondera, Montana",0.0
+1635,0,0,0,0,0.0
+1636,0,0,0,0,0.0
+1637,0,0,0,0,0.0
+1638,30081,5,0,"Ravalli, Montana",0.0
+1639,30083,3,0,"Richland, Montana",0.0
+1640,30085,6,0,"Roosevelt, Montana",0.0
+1641,0,0,0,0,0.0
+1642,0,0,0,0,0.0
+1643,0,0,0,0,0.0
+1644,30093,11,0,"Silver Bow, Montana",0.0
+1645,30095,1,0,"Stillwater, Montana",0.0
+1646,0,0,0,0,0.0
+1647,0,0,0,0,0.0
+1648,30101,29,4,"Toole, Montana",0.138
+1649,0,0,0,0,0.0
+1650,0,0,0,0,0.0
+1651,0,0,0,0,0.0
+1652,0,0,0,0,0.0
+1653,30111,72,1,"Yellowstone, Montana",0.014
+1654,31001,98,0,"Adams, Nebraska",0.0
+1655,31003,1,0,"Antelope, Nebraska",0.0
+1656,0,0,0,0,0.0
+1657,0,0,0,0,0.0
+1658,0,0,0,0,0.0
+1659,0,0,0,0,0.0
+1660,31013,1,0,"Box Butte, Nebraska",0.0
+1661,0,0,0,0,0.0
+1662,0,0,0,0,0.0
+1663,31019,52,1,"Buffalo, Nebraska",0.019
+1664,31021,1,0,"Burt, Nebraska",0.0
+1665,31023,1,0,"Butler, Nebraska",0.0
+1666,31025,5,0,"Cass, Nebraska",0.0
+1667,0,0,0,0,0.0
+1668,0,0,0,0,0.0
+1669,31031,1,0,"Cherry, Nebraska",0.0
+1670,31033,4,0,"Cheyenne, Nebraska",0.0
+1671,31035,4,0,"Clay, Nebraska",0.0
+1672,31037,4,0,"Colfax, Nebraska",0.0
+1673,31039,2,0,"Cuming, Nebraska",0.0
+1674,31041,20,0,"Custer, Nebraska",0.0
+1675,31043,29,0,"Dakota, Nebraska",0.0
+1676,0,0,0,0,0.0
+1677,31047,124,0,"Dawson, Nebraska",0.0
+1678,0,0,0,0,0.0
+1679,0,0,0,0,0.0
+1680,31053,16,0,"Dodge, Nebraska",0.0
+1681,31055,280,8,"Douglas, Nebraska",0.029
+1682,0,0,0,0,0.0
+1683,0,0,0,0,0.0
+1684,31061,3,0,"Franklin, Nebraska",0.0
+1685,0,0,0,0,0.0
+1686,31065,2,0,"Furnas, Nebraska",0.0
+1687,31067,28,1,"Gage, Nebraska",0.036
+1688,0,0,0,0,0.0
+1689,0,0,0,0,0.0
+1690,31073,5,0,"Gosper, Nebraska",0.0
+1691,0,0,0,0,0.0
+1692,0,0,0,0,0.0
+1693,31079,457,4,"Hall, Nebraska",0.009
+1694,31081,19,0,"Hamilton, Nebraska",0.0
+1695,0,0,0,0,0.0
+1696,0,0,0,0,0.0
+1697,0,0,0,0,0.0
+1698,0,0,0,0,0.0
+1699,0,0,0,0,0.0
+1700,31093,3,0,"Howard, Nebraska",0.0
+1701,0,0,0,0,0.0
+1702,31097,2,0,"Johnson, Nebraska",0.0
+1703,31099,4,0,"Kearney, Nebraska",0.0
+1704,0,0,0,0,0.0
+1705,0,0,0,0,0.0
+1706,31105,9,0,"Kimball, Nebraska",0.0
+1707,31107,2,0,"Knox, Nebraska",0.0
+1708,31109,81,1,"Lancaster, Nebraska",0.012
+1709,31111,18,1,"Lincoln, Nebraska",0.056
+1710,0,0,0,0,0.0
+1711,0,0,0,0,0.0
+1712,0,0,0,0,0.0
+1713,31119,9,2,"Madison, Nebraska",0.222
+1714,31121,7,0,"Merrick, Nebraska",0.0
+1715,31123,1,0,"Morrill, Nebraska",0.0
+1716,31125,1,0,"Nance, Nebraska",0.0
+1717,31127,1,0,"Nemaha, Nebraska",0.0
+1718,0,0,0,0,0.0
+1719,31131,1,0,"Otoe, Nebraska",0.0
+1720,0,0,0,0,0.0
+1721,0,0,0,0,0.0
+1722,31137,1,0,"Phelps, Nebraska",0.0
+1723,31139,1,0,"Pierce, Nebraska",0.0
+1724,31141,7,0,"Platte, Nebraska",0.0
+1725,31143,5,0,"Polk, Nebraska",0.0
+1726,31145,1,0,"Red Willow, Nebraska",0.0
+1727,0,0,0,0,0.0
+1728,0,0,0,0,0.0
+1729,31151,7,0,"Saline, Nebraska",0.0
+1730,31153,53,0,"Sarpy, Nebraska",0.0
+1731,31155,6,0,"Saunders, Nebraska",0.0
+1732,31157,22,0,"Scotts Bluff, Nebraska",0.0
+1733,31159,2,0,"Seward, Nebraska",0.0
+1734,0,0,0,0,0.0
+1735,0,0,0,0,0.0
+1736,0,0,0,0,0.0
+1737,31167,2,0,"Stanton, Nebraska",0.0
+1738,0,0,0,0,0.0
+1739,0,0,0,0,0.0
+1740,31173,1,0,"Thurston, Nebraska",0.0
+1741,0,0,0,0,0.0
+1742,31177,20,0,"Washington, Nebraska",0.0
+1743,31179,1,0,"Wayne, Nebraska",0.0
+1744,31181,2,0,"Webster, Nebraska",0.0
+1745,0,0,0,0,0.0
+1746,31185,7,0,"York, Nebraska",0.0
+1747,32001,3,0,"Churchill, Nevada",0.0
+1748,32003,2940,137,"Clark, Nevada",0.047
+1749,32005,15,0,"Douglas, Nevada",0.0
+1750,32007,12,1,"Elko, Nevada",0.083
+1751,0,0,0,0,0.0
+1752,0,0,0,0,0.0
+1753,32013,26,2,"Humboldt, Nevada",0.077
+1754,0,0,0,0,0.0
+1755,0,0,0,0,0.0
+1756,32019,16,0,"Lyon, Nevada",0.0
+1757,0,0,0,0,0.0
+1758,32023,28,0,"Nye, Nevada",0.0
+1759,0,0,0,0,0.0
+1760,0,0,0,0,0.0
+1761,32031,637,18,"Washoe, Nevada",0.028
+1762,32033,3,0,"White Pine, Nevada",0.0
+1763,32510,28,0,"Carson City, Nevada",0.0
+1764,33001,26,0,"Belknap, New Hampshire",0.0
+1765,33003,30,0,"Carroll, New Hampshire",0.0
+1766,33005,29,0,"Cheshire, New Hampshire",0.0
+1767,33007,2,0,"Coos, New Hampshire",0.0
+1768,33009,45,0,"Grafton, New Hampshire",0.0
+1769,33011,581,2,"Hillsborough, New Hampshire",0.003
+1770,33013,94,0,"Merrimack, New Hampshire",0.0
+1771,33015,479,1,"Rockingham, New Hampshire",0.002
+1772,33017,94,0,"Strafford, New Hampshire",0.0
+1773,33019,10,0,"Sullivan, New Hampshire",0.0
+1774,34001,398,19,"Atlantic, New Jersey",0.048
+1775,34003,12639,767,"Bergen, New Jersey",0.061
+1776,34005,1587,58,"Burlington, New Jersey",0.037
+1777,34007,2131,74,"Camden, New Jersey",0.035
+1778,34009,206,14,"Cape May, New Jersey",0.068
+1779,34011,308,4,"Cumberland, New Jersey",0.013
+1780,34013,10304,740,"Essex, New Jersey",0.072
+1781,34015,737,24,"Gloucester, New Jersey",0.033
+1782,34017,10486,612,"Hudson, New Jersey",0.058
+1783,34019,407,18,"Hunterdon, New Jersey",0.044
+1784,34021,2395,113,"Mercer, New Jersey",0.047
+1785,34023,8017,329,"Middlesex, New Jersey",0.041
+1786,34025,4669,226,"Monmouth, New Jersey",0.048
+1787,34027,4136,257,"Morris, New Jersey",0.062
+1788,34029,4648,217,"Ocean, New Jersey",0.047
+1789,34031,8288,250,"Passaic, New Jersey",0.03
+1790,34033,116,4,"Salem, New Jersey",0.034
+1791,34035,2384,158,"Somerset, New Jersey",0.066
+1792,34037,659,62,"Sussex, New Jersey",0.094
+1793,34039,9609,372,"Union, New Jersey",0.039
+1794,34041,592,44,"Warren, New Jersey",0.074
+1795,35001,542,24,"Bernalillo, New Mexico",0.044
+1796,35003,1,0,"Catron, New Mexico",0.0
+1797,35005,21,0,"Chaves, New Mexico",0.0
+1798,35006,33,2,"Cibola, New Mexico",0.061
+1799,35007,4,0,"Colfax, New Mexico",0.0
+1800,35009,10,0,"Curry, New Mexico",0.0
+1801,0,0,0,0,0.0
+1802,35013,69,1,"Dona Ana, New Mexico",0.014
+1803,35015,9,1,"Eddy, New Mexico",0.111
+1804,35017,13,0,"Grant, New Mexico",0.0
+1805,35019,1,0,"Guadalupe, New Mexico",0.0
+1806,0,0,0,0,0.0
+1807,0,0,0,0,0.0
+1808,35025,2,0,"Lea, New Mexico",0.0
+1809,35027,1,0,"Lincoln, New Mexico",0.0
+1810,35028,6,0,"Los Alamos, New Mexico",0.0
+1811,35029,3,0,"Luna, New Mexico",0.0
+1812,35031,363,5,"McKinley, New Mexico",0.014
+1813,0,0,0,0,0.0
+1814,35035,3,0,"Otero, New Mexico",0.0
+1815,35037,2,0,"Quay, New Mexico",0.0
+1816,35039,10,0,"Rio Arriba, New Mexico",0.0
+1817,35041,1,0,"Roosevelt, New Mexico",0.0
+1818,35043,315,6,"Sandoval, New Mexico",0.019
+1819,35045,275,15,"San Juan, New Mexico",0.055
+1820,35047,2,0,"San Miguel, New Mexico",0.0
+1821,35049,83,0,"Santa Fe, New Mexico",0.0
+1822,0,0,0,0,0.0
+1823,35053,20,1,"Socorro, New Mexico",0.05
+1824,35055,15,0,"Taos, New Mexico",0.0
+1825,35057,12,0,"Torrance, New Mexico",0.0
+1826,0,0,0,0,0.0
+1827,35061,29,0,"Valencia, New Mexico",0.0
+1828,36001,682,20,"Albany, New York",0.029
+1829,36003,30,2,"Allegany, New York",0.067
+1830,0,0,0,0,0.0
+1831,36007,192,10,"Broome, New York",0.052
+1832,36009,34,0,"Cattaraugus, New York",0.0
+1833,36011,36,1,"Cayuga, New York",0.028
+1834,36013,25,3,"Chautauqua, New York",0.12
+1835,36015,73,1,"Chemung, New York",0.014
+1836,36017,78,0,"Chenango, New York",0.0
+1837,36019,49,3,"Clinton, New York",0.061
+1838,36021,107,11,"Columbia, New York",0.103
+1839,36023,25,0,"Cortland, New York",0.0
+1840,36025,49,4,"Delaware, New York",0.082
+1841,36027,2240,28,"Dutchess, New York",0.012
+1842,36029,2192,135,"Erie, New York",0.062
+1843,36031,18,0,"Essex, New York",0.0
+1844,36033,13,0,"Franklin, New York",0.0
+1845,36035,27,0,"Fulton, New York",0.0
+1846,36037,117,2,"Genesee, New York",0.017
+1847,36039,85,0,"Greene, New York",0.0
+1848,36041,3,0,"Hamilton, New York",0.0
+1849,36043,49,3,"Herkimer, New York",0.061
+1850,36045,54,0,"Jefferson, New York",0.0
+1851,0,0,0,0,0.0
+1852,36049,8,0,"Lewis, New York",0.0
+1853,36051,39,3,"Livingston, New York",0.077
+1854,36053,117,5,"Madison, New York",0.043
+1855,36055,1032,68,"Monroe, New York",0.066
+1856,36057,35,1,"Montgomery, New York",0.029
+1857,36059,30013,1109,"Nassau, New York",0.037
+1858,36061,138700,14451,"New York, New York",0.104
+1859,36063,246,9,"Niagara, New York",0.037
+1860,36065,275,7,"Oneida, New York",0.025
+1861,36067,637,19,"Onondaga, New York",0.03
+1862,36069,70,0,"Ontario, New York",0.0
+1863,36071,6514,211,"Orange, New York",0.032
+1864,36073,46,1,"Orleans, New York",0.022
+1865,36075,47,2,"Oswego, New York",0.043
+1866,36077,48,4,"Otsego, New York",0.083
+1867,36079,778,7,"Putnam, New York",0.009
+1868,0,0,0,0,0.0
+1869,36083,186,6,"Rensselaer, New York",0.032
+1870,0,0,0,0,0.0
+1871,36087,9364,334,"Rockland, New York",0.036
+1872,36089,105,0,"St. Lawrence, New York",0.0
+1873,36091,251,7,"Saratoga, New York",0.028
+1874,36093,295,14,"Schenectady, New York",0.047
+1875,36095,20,0,"Schoharie, New York",0.0
+1876,36097,8,0,"Schuyler, New York",0.0
+1877,36099,18,0,"Seneca, New York",0.0
+1878,36101,181,23,"Steuben, New York",0.127
+1879,36103,26888,693,"Suffolk, New York",0.026
+1880,36105,537,11,"Sullivan, New York",0.02
+1881,36107,35,0,"Tioga, New York",0.0
+1882,36109,119,0,"Tompkins, New York",0.0
+1883,36111,960,16,"Ulster, New York",0.017
+1884,36113,96,0,"Warren, New York",0.0
+1885,36115,63,2,"Washington, New York",0.032
+1886,36117,50,0,"Wayne, New York",0.0
+1887,36119,23803,668,"Westchester, New York",0.028
+1888,36121,44,3,"Wyoming, New York",0.068
+1889,36123,9,0,"Yates, New York",0.0
+1890,37001,50,0,"Alamance, North Carolina",0.0
+1891,37003,3,0,"Alexander, North Carolina",0.0
+1892,37005,2,0,"Alleghany, North Carolina",0.0
+1893,37007,16,0,"Anson, North Carolina",0.0
+1894,37009,4,0,"Ashe, North Carolina",0.0
+1895,0,0,0,0,0.0
+1896,37013,14,0,"Beaufort, North Carolina",0.0
+1897,37015,21,1,"Bertie, North Carolina",0.048
+1898,37017,2,0,"Bladen, North Carolina",0.0
+1899,37019,36,2,"Brunswick, North Carolina",0.056
+1900,37021,47,3,"Buncombe, North Carolina",0.064
+1901,37023,68,6,"Burke, North Carolina",0.088
+1902,37025,208,4,"Cabarrus, North Carolina",0.019
+1903,37027,23,0,"Caldwell, North Carolina",0.0
+1904,0,0,0,0,0.0
+1905,37031,24,2,"Carteret, North Carolina",0.083
+1906,37033,7,0,"Caswell, North Carolina",0.0
+1907,37035,43,1,"Catawba, North Carolina",0.023
+1908,37037,119,1,"Chatham, North Carolina",0.008
+1909,37039,16,1,"Cherokee, North Carolina",0.062
+1910,37041,6,0,"Chowan, North Carolina",0.0
+1911,37043,5,0,"Clay, North Carolina",0.0
+1912,37045,44,2,"Cleveland, North Carolina",0.045
+1913,37047,58,3,"Columbus, North Carolina",0.052
+1914,37049,34,2,"Craven, North Carolina",0.059
+1915,37051,113,6,"Cumberland, North Carolina",0.053
+1916,37053,3,0,"Currituck, North Carolina",0.0
+1917,37055,15,1,"Dare, North Carolina",0.067
+1918,37057,94,2,"Davidson, North Carolina",0.021
+1919,37059,23,2,"Davie, North Carolina",0.087
+1920,37061,24,0,"Duplin, North Carolina",0.0
+1921,37063,409,5,"Durham, North Carolina",0.012
+1922,37065,58,1,"Edgecombe, North Carolina",0.017
+1923,37067,126,5,"Forsyth, North Carolina",0.04
+1924,37069,69,8,"Franklin, North Carolina",0.116
+1925,37071,111,3,"Gaston, North Carolina",0.027
+1926,37073,4,0,"Gates, North Carolina",0.0
+1927,0,0,0,0,0.0
+1928,37077,110,5,"Granville, North Carolina",0.045
+1929,37079,14,0,"Greene, North Carolina",0.0
+1930,37081,176,13,"Guilford, North Carolina",0.074
+1931,37083,32,1,"Halifax, North Carolina",0.031
+1932,37085,58,3,"Harnett, North Carolina",0.052
+1933,37087,5,0,"Haywood, North Carolina",0.0
+1934,37089,120,11,"Henderson, North Carolina",0.092
+1935,37091,9,1,"Hertford, North Carolina",0.111
+1936,37093,23,0,"Hoke, North Carolina",0.0
+1937,0,0,0,0,0.0
+1938,37097,81,3,"Iredell, North Carolina",0.037
+1939,37099,5,0,"Jackson, North Carolina",0.0
+1940,37101,123,9,"Johnston, North Carolina",0.073
+1941,37103,9,1,"Jones, North Carolina",0.111
+1942,37105,34,0,"Lee, North Carolina",0.0
+1943,37107,21,1,"Lenoir, North Carolina",0.048
+1944,37109,19,0,"Lincoln, North Carolina",0.0
+1945,37111,20,0,"McDowell, North Carolina",0.0
+1946,37113,2,1,"Macon, North Carolina",0.5
+1947,0,0,0,0,0.0
+1948,37117,9,0,"Martin, North Carolina",0.0
+1949,37119,1183,29,"Mecklenburg, North Carolina",0.025
+1950,37121,5,0,"Mitchell, North Carolina",0.0
+1951,37123,18,1,"Montgomery, North Carolina",0.056
+1952,37125,93,4,"Moore, North Carolina",0.043
+1953,37127,61,1,"Nash, North Carolina",0.016
+1954,37129,68,1,"New Hanover, North Carolina",0.015
+1955,37131,72,2,"Northampton, North Carolina",0.028
+1956,37133,37,1,"Onslow, North Carolina",0.027
+1957,37135,187,3,"Orange, North Carolina",0.016
+1958,37137,6,0,"Pamlico, North Carolina",0.0
+1959,37139,20,0,"Pasquotank, North Carolina",0.0
+1960,37141,7,0,"Pender, North Carolina",0.0
+1961,37143,8,0,"Perquimans, North Carolina",0.0
+1962,37145,16,0,"Person, North Carolina",0.0
+1963,37147,93,1,"Pitt, North Carolina",0.011
+1964,37149,10,0,"Polk, North Carolina",0.0
+1965,37151,74,2,"Randolph, North Carolina",0.027
+1966,37153,19,2,"Richmond, North Carolina",0.105
+1967,37155,25,2,"Robeson, North Carolina",0.08
+1968,37157,18,2,"Rockingham, North Carolina",0.111
+1969,37159,248,12,"Rowan, North Carolina",0.048
+1970,37161,75,4,"Rutherford, North Carolina",0.053
+1971,37163,22,0,"Sampson, North Carolina",0.0
+1972,37165,12,0,"Scotland, North Carolina",0.0
+1973,37167,20,3,"Stanly, North Carolina",0.15
+1974,37169,10,0,"Stokes, North Carolina",0.0
+1975,37171,17,0,"Surry, North Carolina",0.0
+1976,0,0,0,0,0.0
+1977,37175,7,0,"Transylvania, North Carolina",0.0
+1978,37177,4,0,"Tyrrell, North Carolina",0.0
+1979,37179,149,3,"Union, North Carolina",0.02
+1980,37181,32,1,"Vance, North Carolina",0.031
+1981,37183,592,4,"Wake, North Carolina",0.007
+1982,37185,3,0,"Warren, North Carolina",0.0
+1983,37187,20,2,"Washington, North Carolina",0.1
+1984,37189,8,0,"Watauga, North Carolina",0.0
+1985,37191,463,4,"Wayne, North Carolina",0.009
+1986,37193,4,1,"Wilkes, North Carolina",0.25
+1987,37195,112,4,"Wilson, North Carolina",0.036
+1988,37197,11,1,"Yadkin, North Carolina",0.091
+1989,0,0,0,0,0.0
+1990,0,0,0,0,0.0
+1991,38003,3,0,"Barnes, North Dakota",0.0
+1992,0,0,0,0,0.0
+1993,0,0,0,0,0.0
+1994,0,0,0,0,0.0
+1995,38011,1,0,"Bowman, North Dakota",0.0
+1996,38013,2,0,"Burke, North Dakota",0.0
+1997,38015,63,0,"Burleigh, North Dakota",0.0
+1998,38017,212,2,"Cass, North Dakota",0.009
+1999,0,0,0,0,0.0
+2000,0,0,0,0,0.0
+2001,38023,1,0,"Divide, North Dakota",0.0
+2002,38025,9,0,"Dunn, North Dakota",0.0
+2003,38027,1,0,"Eddy, North Dakota",0.0
+2004,38029,1,1,"Emmons, North Dakota",1.0
+2005,38031,1,0,"Foster, North Dakota",0.0
+2006,0,0,0,0,0.0
+2007,38035,133,0,"Grand Forks, North Dakota",0.0
+2008,38037,1,0,"Grant, North Dakota",0.0
+2009,0,0,0,0,0.0
+2010,0,0,0,0,0.0
+2011,0,0,0,0,0.0
+2012,0,0,0,0,0.0
+2013,0,0,0,0,0.0
+2014,38049,1,1,"McHenry, North Dakota",1.0
+2015,38051,1,0,"McIntosh, North Dakota",0.0
+2016,38053,10,0,"McKenzie, North Dakota",0.0
+2017,38055,3,0,"McLean, North Dakota",0.0
+2018,0,0,0,0,0.0
+2019,38059,22,2,"Morton, North Dakota",0.091
+2020,38061,30,0,"Mountrail, North Dakota",0.0
+2021,38063,1,0,"Nelson, North Dakota",0.0
+2022,38065,1,0,"Oliver, North Dakota",0.0
+2023,0,0,0,0,0.0
+2024,38069,2,0,"Pierce, North Dakota",0.0
+2025,38071,3,0,"Ramsey, North Dakota",0.0
+2026,0,0,0,0,0.0
+2027,0,0,0,0,0.0
+2028,38077,5,0,"Richland, North Dakota",0.0
+2029,38079,1,0,"Rolette, North Dakota",0.0
+2030,38081,1,0,"Sargent, North Dakota",0.0
+2031,0,0,0,0,0.0
+2032,38085,1,0,"Sioux, North Dakota",0.0
+2033,38087,3,0,"Slope, North Dakota",0.0
+2034,38089,39,2,"Stark, North Dakota",0.051
+2035,0,0,0,0,0.0
+2036,38093,1,0,"Stutsman, North Dakota",0.0
+2037,0,0,0,0,0.0
+2038,0,0,0,0,0.0
+2039,38099,3,0,"Walsh, North Dakota",0.0
+2040,38101,20,1,"Ward, North Dakota",0.05
+2041,0,0,0,0,0.0
+2042,38105,9,0,"Williams, North Dakota",0.0
+2043,39001,3,0,"Adams, Ohio",0.0
+2044,39003,79,11,"Allen, Ohio",0.139
+2045,39005,6,0,"Ashland, Ohio",0.0
+2046,39007,66,5,"Ashtabula, Ohio",0.076
+2047,39009,3,1,"Athens, Ohio",0.333
+2048,39011,22,2,"Auglaize, Ohio",0.091
+2049,39013,68,3,"Belmont, Ohio",0.044
+2050,39015,9,1,"Brown, Ohio",0.111
+2051,39017,166,2,"Butler, Ohio",0.012
+2052,39019,15,0,"Carroll, Ohio",0.0
+2053,39021,8,1,"Champaign, Ohio",0.125
+2054,39023,25,0,"Clark, Ohio",0.0
+2055,39025,72,1,"Clermont, Ohio",0.014
+2056,39027,26,0,"Clinton, Ohio",0.0
+2057,39029,167,13,"Columbiana, Ohio",0.078
+2058,39031,16,0,"Coshocton, Ohio",0.0
+2059,39033,41,0,"Crawford, Ohio",0.0
+2060,39035,1466,53,"Cuyahoga, Ohio",0.036
+2061,39037,56,10,"Darke, Ohio",0.179
+2062,39039,14,0,"Defiance, Ohio",0.0
+2063,39041,123,3,"Delaware, Ohio",0.024
+2064,39043,33,2,"Erie, Ohio",0.061
+2065,39045,97,2,"Fairfield, Ohio",0.021
+2066,39047,13,0,"Fayette, Ohio",0.0
+2067,39049,1513,29,"Franklin, Ohio",0.019
+2068,39051,17,0,"Fulton, Ohio",0.0
+2069,39053,6,1,"Gallia, Ohio",0.167
+2070,39055,100,4,"Geauga, Ohio",0.04
+2071,39057,38,2,"Greene, Ohio",0.053
+2072,39059,11,0,"Guernsey, Ohio",0.0
+2073,39061,718,33,"Hamilton, Ohio",0.046
+2074,39063,29,1,"Hancock, Ohio",0.034
+2075,39065,17,0,"Hardin, Ohio",0.0
+2076,39067,2,0,"Harrison, Ohio",0.0
+2077,39069,3,0,"Henry, Ohio",0.0
+2078,39071,7,0,"Highland, Ohio",0.0
+2079,39073,4,0,"Hocking, Ohio",0.0
+2080,39075,3,0,"Holmes, Ohio",0.0
+2081,39077,16,1,"Huron, Ohio",0.062
+2082,39079,5,0,"Jackson, Ohio",0.0
+2083,39081,28,0,"Jefferson, Ohio",0.0
+2084,39083,11,1,"Knox, Ohio",0.091
+2085,39085,133,6,"Lake, Ohio",0.045
+2086,39087,21,0,"Lawrence, Ohio",0.0
+2087,39089,102,4,"Licking, Ohio",0.039
+2088,39091,13,0,"Logan, Ohio",0.0
+2089,39093,294,17,"Lorain, Ohio",0.058
+2090,39095,789,33,"Lucas, Ohio",0.042
+2091,39097,30,3,"Madison, Ohio",0.1
+2092,39099,589,48,"Mahoning, Ohio",0.081
+2093,39101,1834,1,"Marion, Ohio",0.001
+2094,39103,135,10,"Medina, Ohio",0.074
+2095,39105,2,0,"Meigs, Ohio",0.0
+2096,39107,13,1,"Mercer, Ohio",0.077
+2097,39109,129,22,"Miami, Ohio",0.171
+2098,39111,2,0,"Monroe, Ohio",0.0
+2099,39113,232,8,"Montgomery, Ohio",0.034
+2100,39115,3,0,"Morgan, Ohio",0.0
+2101,39117,20,0,"Morrow, Ohio",0.0
+2102,39119,8,0,"Muskingum, Ohio",0.0
+2103,39121,6,0,"Noble, Ohio",0.0
+2104,39123,27,0,"Ottawa, Ohio",0.0
+2105,39125,5,0,"Paulding, Ohio",0.0
+2106,39127,9,0,"Perry, Ohio",0.0
+2107,39129,477,4,"Pickaway, Ohio",0.008
+2108,39131,1,0,"Pike, Ohio",0.0
+2109,39133,176,24,"Portage, Ohio",0.136
+2110,39135,21,1,"Preble, Ohio",0.048
+2111,39137,18,0,"Putnam, Ohio",0.0
+2112,39139,65,1,"Richland, Ohio",0.015
+2113,39141,36,0,"Ross, Ohio",0.0
+2114,39143,18,2,"Sandusky, Ohio",0.111
+2115,39145,9,0,"Scioto, Ohio",0.0
+2116,39147,12,1,"Seneca, Ohio",0.083
+2117,39149,29,0,"Shelby, Ohio",0.0
+2118,39151,224,24,"Stark, Ohio",0.107
+2119,39153,350,21,"Summit, Ohio",0.06
+2120,39155,237,19,"Trumbull, Ohio",0.08
+2121,39157,31,0,"Tuscarawas, Ohio",0.0
+2122,39159,12,0,"Union, Ohio",0.0
+2123,39161,3,0,"Van Wert, Ohio",0.0
+2124,0,0,0,0,0.0
+2125,39165,112,9,"Warren, Ohio",0.08
+2126,39167,65,6,"Washington, Ohio",0.092
+2127,39169,79,12,"Wayne, Ohio",0.152
+2128,39171,8,1,"Williams, Ohio",0.125
+2129,39173,84,9,"Wood, Ohio",0.107
+2130,39175,17,2,"Wyandot, Ohio",0.118
+2131,40001,43,3,"Adair, Oklahoma",0.07
+2132,40003,1,0,"Alfalfa, Oklahoma",0.0
+2133,40005,1,0,"Atoka, Oklahoma",0.0
+2134,40007,1,0,"Beaver, Oklahoma",0.0
+2135,40009,2,0,"Beckham, Oklahoma",0.0
+2136,0,0,0,0,0.0
+2137,40013,5,0,"Bryan, Oklahoma",0.0
+2138,40015,51,2,"Caddo, Oklahoma",0.039
+2139,40017,73,3,"Canadian, Oklahoma",0.041
+2140,40019,1,0,"Carter, Oklahoma",0.0
+2141,40021,24,1,"Cherokee, Oklahoma",0.042
+2142,40023,3,0,"Choctaw, Oklahoma",0.0
+2143,0,0,0,0,0.0
+2144,40027,313,21,"Cleveland, Oklahoma",0.067
+2145,0,0,0,0,0.0
+2146,40031,67,0,"Comanche, Oklahoma",0.0
+2147,40033,5,0,"Cotton, Oklahoma",0.0
+2148,40035,8,0,"Craig, Oklahoma",0.0
+2149,40037,68,4,"Creek, Oklahoma",0.059
+2150,40039,9,0,"Custer, Oklahoma",0.0
+2151,40041,83,5,"Delaware, Oklahoma",0.06
+2152,40043,2,0,"Dewey, Oklahoma",0.0
+2153,0,0,0,0,0.0
+2154,40047,11,1,"Garfield, Oklahoma",0.091
+2155,40049,10,0,"Garvin, Oklahoma",0.0
+2156,40051,20,1,"Grady, Oklahoma",0.05
+2157,40053,2,0,"Grant, Oklahoma",0.0
+2158,40055,55,5,"Greer, Oklahoma",0.091
+2159,0,0,0,0,0.0
+2160,40059,1,0,"Harper, Oklahoma",0.0
+2161,40061,2,0,"Haskell, Oklahoma",0.0
+2162,0,0,0,0,0.0
+2163,40065,6,0,"Jackson, Oklahoma",0.0
+2164,40067,1,0,"Jefferson, Oklahoma",0.0
+2165,40069,3,0,"Johnston, Oklahoma",0.0
+2166,40071,46,4,"Kay, Oklahoma",0.087
+2167,40073,6,0,"Kingfisher, Oklahoma",0.0
+2168,40075,3,0,"Kiowa, Oklahoma",0.0
+2169,40077,4,1,"Latimer, Oklahoma",0.25
+2170,40079,6,0,"Le Flore, Oklahoma",0.0
+2171,40081,10,0,"Lincoln, Oklahoma",0.0
+2172,40083,9,0,"Logan, Oklahoma",0.0
+2173,40085,2,0,"Love, Oklahoma",0.0
+2174,0,0,0,0,0.0
+2175,0,0,0,0,0.0
+2176,0,0,0,0,0.0
+2177,40093,2,1,"Major, Oklahoma",0.5
+2178,40095,2,0,"Marshall, Oklahoma",0.0
+2179,40097,19,3,"Mayes, Oklahoma",0.158
+2180,40099,1,0,"Murray, Oklahoma",0.0
+2181,40101,26,3,"Muskogee, Oklahoma",0.115
+2182,40103,6,0,"Noble, Oklahoma",0.0
+2183,40105,13,0,"Nowata, Oklahoma",0.0
+2184,40107,1,0,"Okfuskee, Oklahoma",0.0
+2185,40109,560,23,"Oklahoma, Oklahoma",0.041
+2186,40111,15,0,"Okmulgee, Oklahoma",0.0
+2187,40113,64,8,"Osage, Oklahoma",0.125
+2188,40115,27,0,"Ottawa, Oklahoma",0.0
+2189,40117,28,2,"Pawnee, Oklahoma",0.071
+2190,40119,37,0,"Payne, Oklahoma",0.0
+2191,40121,17,1,"Pittsburg, Oklahoma",0.059
+2192,40123,10,1,"Pontotoc, Oklahoma",0.1
+2193,40125,36,4,"Pottawatomie, Oklahoma",0.111
+2194,0,0,0,0,0.0
+2195,0,0,0,0,0.0
+2196,40131,38,2,"Rogers, Oklahoma",0.053
+2197,40133,7,1,"Seminole, Oklahoma",0.143
+2198,40135,10,2,"Sequoyah, Oklahoma",0.2
+2199,40137,15,1,"Stephens, Oklahoma",0.067
+2200,40139,13,1,"Texas, Oklahoma",0.077
+2201,40141,2,0,"Tillman, Oklahoma",0.0
+2202,40143,411,22,"Tulsa, Oklahoma",0.054
+2203,40145,108,8,"Wagoner, Oklahoma",0.074
+2204,40147,140,6,"Washington, Oklahoma",0.043
+2205,0,0,0,0,0.0
+2206,40151,1,0,"Woods, Oklahoma",0.0
+2207,40153,1,0,"Woodward, Oklahoma",0.0
+2208,0,0,0,0,0.0
+2209,41003,27,5,"Benton, Oregon",0.185
+2210,41005,161,5,"Clackamas, Oregon",0.031
+2211,41007,6,0,"Clatsop, Oregon",0.0
+2212,41009,14,0,"Columbia, Oregon",0.0
+2213,41011,1,0,"Coos, Oregon",0.0
+2214,41013,1,0,"Crook, Oregon",0.0
+2215,41015,4,0,"Curry, Oregon",0.0
+2216,41017,64,0,"Deschutes, Oregon",0.0
+2217,41019,22,0,"Douglas, Oregon",0.0
+2218,0,0,0,0,0.0
+2219,41023,1,0,"Grant, Oregon",0.0
+2220,0,0,0,0,0.0
+2221,41027,4,0,"Hood River, Oregon",0.0
+2222,41029,49,0,"Jackson, Oregon",0.0
+2223,41031,1,0,"Jefferson, Oregon",0.0
+2224,41033,19,1,"Josephine, Oregon",0.053
+2225,41035,30,0,"Klamath, Oregon",0.0
+2226,0,0,0,0,0.0
+2227,41039,48,1,"Lane, Oregon",0.021
+2228,41041,4,0,"Lincoln, Oregon",0.0
+2229,41043,59,6,"Linn, Oregon",0.102
+2230,41045,5,0,"Malheur, Oregon",0.0
+2231,41047,358,13,"Marion, Oregon",0.036
+2232,41049,5,0,"Morrow, Oregon",0.0
+2233,41051,514,28,"Multnomah, Oregon",0.054
+2234,41053,32,1,"Polk, Oregon",0.031
+2235,41055,1,0,"Sherman, Oregon",0.0
+2236,41057,6,0,"Tillamook, Oregon",0.0
+2237,41059,26,0,"Umatilla, Oregon",0.0
+2238,41061,4,0,"Union, Oregon",0.0
+2239,41063,1,0,"Wallowa, Oregon",0.0
+2240,41065,10,0,"Wasco, Oregon",0.0
+2241,41067,399,8,"Washington, Oregon",0.02
+2242,0,0,0,0,0.0
+2243,41071,34,6,"Yamhill, Oregon",0.176
+2244,42001,80,1,"Adams, Pennsylvania",0.012
+2245,42003,1035,50,"Allegheny, Pennsylvania",0.048
+2246,42005,38,2,"Armstrong, Pennsylvania",0.053
+2247,42007,288,32,"Beaver, Pennsylvania",0.111
+2248,42009,15,1,"Bedford, Pennsylvania",0.067
+2249,42011,1898,65,"Berks, Pennsylvania",0.034
+2250,42013,13,0,"Blair, Pennsylvania",0.0
+2251,42015,25,1,"Bradford, Pennsylvania",0.04
+2252,42017,1797,84,"Bucks, Pennsylvania",0.047
+2253,42019,161,5,"Butler, Pennsylvania",0.031
+2254,42021,19,1,"Cambria, Pennsylvania",0.053
+2255,42023,1,0,"Cameron, Pennsylvania",0.0
+2256,42025,140,8,"Carbon, Pennsylvania",0.057
+2257,42027,73,1,"Centre, Pennsylvania",0.014
+2258,42029,877,42,"Chester, Pennsylvania",0.048
+2259,42031,18,1,"Clarion, Pennsylvania",0.056
+2260,42033,11,0,"Clearfield, Pennsylvania",0.0
+2261,42035,11,0,"Clinton, Pennsylvania",0.0
+2262,42037,202,6,"Columbia, Pennsylvania",0.03
+2263,42039,16,0,"Crawford, Pennsylvania",0.0
+2264,42041,182,4,"Cumberland, Pennsylvania",0.022
+2265,42043,368,9,"Dauphin, Pennsylvania",0.024
+2266,42045,2460,91,"Delaware, Pennsylvania",0.037
+2267,42047,2,0,"Elk, Pennsylvania",0.0
+2268,42049,58,0,"Erie, Pennsylvania",0.0
+2269,42051,66,3,"Fayette, Pennsylvania",0.045
+2270,42053,7,0,"Forest, Pennsylvania",0.0
+2271,42055,111,0,"Franklin, Pennsylvania",0.0
+2272,42057,2,0,"Fulton, Pennsylvania",0.0
+2273,42059,24,0,"Greene, Pennsylvania",0.0
+2274,42061,13,0,"Huntingdon, Pennsylvania",0.0
+2275,42063,51,4,"Indiana, Pennsylvania",0.078
+2276,42065,2,0,"Jefferson, Pennsylvania",0.0
+2277,42067,70,0,"Juniata, Pennsylvania",0.0
+2278,42069,636,41,"Lackawanna, Pennsylvania",0.064
+2279,42071,1188,98,"Lancaster, Pennsylvania",0.082
+2280,42073,59,5,"Lawrence, Pennsylvania",0.085
+2281,42075,484,4,"Lebanon, Pennsylvania",0.008
+2282,42077,2203,32,"Lehigh, Pennsylvania",0.015
+2283,42079,1741,34,"Luzerne, Pennsylvania",0.02
+2284,42081,37,0,"Lycoming, Pennsylvania",0.0
+2285,42083,4,0,"McKean, Pennsylvania",0.0
+2286,42085,59,1,"Mercer, Pennsylvania",0.017
+2287,42087,20,0,"Mifflin, Pennsylvania",0.0
+2288,42089,963,38,"Monroe, Pennsylvania",0.039
+2289,42091,2913,164,"Montgomery, Pennsylvania",0.056
+2290,42093,48,0,"Montour, Pennsylvania",0.0
+2291,42095,1441,36,"Northampton, Pennsylvania",0.025
+2292,42097,67,0,"Northumberland, Pennsylvania",0.0
+2293,42099,20,1,"Perry, Pennsylvania",0.05
+2294,42101,9214,365,"Philadelphia, Pennsylvania",0.04
+2295,42103,301,8,"Pike, Pennsylvania",0.027
+2296,42105,4,0,"Potter, Pennsylvania",0.0
+2297,42107,261,5,"Schuylkill, Pennsylvania",0.019
+2298,42109,27,1,"Snyder, Pennsylvania",0.037
+2299,42111,18,0,"Somerset, Pennsylvania",0.0
+2300,42113,1,0,"Sullivan, Pennsylvania",0.0
+2301,42115,63,3,"Susquehanna, Pennsylvania",0.048
+2302,42117,14,1,"Tioga, Pennsylvania",0.071
+2303,42119,27,0,"Union, Pennsylvania",0.0
+2304,42121,6,0,"Venango, Pennsylvania",0.0
+2305,42123,1,0,"Warren, Pennsylvania",0.0
+2306,42125,82,2,"Washington, Pennsylvania",0.024
+2307,42127,84,3,"Wayne, Pennsylvania",0.036
+2308,42129,284,16,"Westmoreland, Pennsylvania",0.056
+2309,42131,17,1,"Wyoming, Pennsylvania",0.059
+2310,42133,481,6,"York, Pennsylvania",0.012
+2311,44001,59,0,"Bristol, Rhode Island",0.0
+2312,44003,316,0,"Kent, Rhode Island",0.0
+2313,44005,103,0,"Newport, Rhode Island",0.0
+2314,44007,3014,3,"Providence, Rhode Island",0.001
+2315,44009,184,0,"Washington, Rhode Island",0.0
+2316,45001,17,0,"Abbeville, South Carolina",0.0
+2317,45003,69,4,"Aiken, South Carolina",0.058
+2318,45005,6,0,"Allendale, South Carolina",0.0
+2319,45007,132,5,"Anderson, South Carolina",0.038
+2320,45009,7,0,"Bamberg, South Carolina",0.0
+2321,45011,5,0,"Barnwell, South Carolina",0.0
+2322,45013,225,6,"Beaufort, South Carolina",0.027
+2323,45015,132,3,"Berkeley, South Carolina",0.023
+2324,45017,6,1,"Calhoun, South Carolina",0.167
+2325,45019,390,3,"Charleston, South Carolina",0.008
+2326,45021,13,0,"Cherokee, South Carolina",0.0
+2327,45023,24,0,"Chester, South Carolina",0.0
+2328,45025,36,0,"Chesterfield, South Carolina",0.0
+2329,45027,112,6,"Clarendon, South Carolina",0.054
+2330,45029,23,1,"Colleton, South Carolina",0.043
+2331,45031,64,0,"Darlington, South Carolina",0.0
+2332,45033,20,0,"Dillon, South Carolina",0.0
+2333,45035,88,1,"Dorchester, South Carolina",0.011
+2334,45037,12,0,"Edgefield, South Carolina",0.0
+2335,45039,25,0,"Fairfield, South Carolina",0.0
+2336,45041,150,8,"Florence, South Carolina",0.053
+2337,45043,33,2,"Georgetown, South Carolina",0.061
+2338,45045,492,11,"Greenville, South Carolina",0.022
+2339,45047,36,0,"Greenwood, South Carolina",0.0
+2340,45049,21,0,"Hampton, South Carolina",0.0
+2341,45051,185,12,"Horry, South Carolina",0.065
+2342,45053,15,1,"Jasper, South Carolina",0.067
+2343,45055,197,8,"Kershaw, South Carolina",0.041
+2344,45057,79,2,"Lancaster, South Carolina",0.025
+2345,45059,20,1,"Laurens, South Carolina",0.05
+2346,45061,42,5,"Lee, South Carolina",0.119
+2347,45063,273,9,"Lexington, South Carolina",0.033
+2348,45065,6,1,"McCormick, South Carolina",0.167
+2349,45067,15,1,"Marion, South Carolina",0.067
+2350,45069,28,0,"Marlboro, South Carolina",0.0
+2351,45071,21,1,"Newberry, South Carolina",0.048
+2352,45073,17,0,"Oconee, South Carolina",0.0
+2353,45075,43,0,"Orangeburg, South Carolina",0.0
+2354,45077,39,0,"Pickens, South Carolina",0.0
+2355,45079,652,14,"Richland, South Carolina",0.021
+2356,45081,12,0,"Saluda, South Carolina",0.0
+2357,45083,213,5,"Spartanburg, South Carolina",0.023
+2358,45085,181,6,"Sumter, South Carolina",0.033
+2359,45087,24,0,"Union, South Carolina",0.0
+2360,45089,21,0,"Williamsburg, South Carolina",0.0
+2361,45091,156,3,"York, South Carolina",0.019
+2362,46003,1,0,"Aurora, South Dakota",0.0
+2363,46005,21,2,"Beadle, South Dakota",0.095
+2364,0,0,0,0,0.0
+2365,46009,4,0,"Bon Homme, South Dakota",0.0
+2366,46011,9,0,"Brookings, South Dakota",0.0
+2367,46013,20,0,"Brown, South Dakota",0.0
+2368,0,0,0,0,0.0
+2369,0,0,0,0,0.0
+2370,0,0,0,0,0.0
+2371,0,0,0,0,0.0
+2372,46023,4,0,"Charles Mix, South Dakota",0.0
+2373,46025,1,0,"Clark, South Dakota",0.0
+2374,46027,5,0,"Clay, South Dakota",0.0
+2375,46029,13,0,"Codington, South Dakota",0.0
+2376,46031,1,0,"Corson, South Dakota",0.0
+2377,0,0,0,0,0.0
+2378,46035,3,0,"Davison, South Dakota",0.0
+2379,0,0,0,0,0.0
+2380,46039,1,0,"Deuel, South Dakota",0.0
+2381,0,0,0,0,0.0
+2382,0,0,0,0,0.0
+2383,0,0,0,0,0.0
+2384,46047,1,0,"Fall River, South Dakota",0.0
+2385,46049,1,0,"Faulk, South Dakota",0.0
+2386,0,0,0,0,0.0
+2387,0,0,0,0,0.0
+2388,0,0,0,0,0.0
+2389,46057,2,0,"Hamlin, South Dakota",0.0
+2390,0,0,0,0,0.0
+2391,0,0,0,0,0.0
+2392,0,0,0,0,0.0
+2393,46065,5,0,"Hughes, South Dakota",0.0
+2394,46067,2,0,"Hutchinson, South Dakota",0.0
+2395,46069,1,0,"Hyde, South Dakota",0.0
+2396,0,0,0,0,0.0
+2397,46073,4,0,"Jerauld, South Dakota",0.0
+2398,0,0,0,0,0.0
+2399,0,0,0,0,0.0
+2400,46079,3,0,"Lake, South Dakota",0.0
+2401,46081,9,0,"Lawrence, South Dakota",0.0
+2402,46083,90,0,"Lincoln, South Dakota",0.0
+2403,46085,2,0,"Lyman, South Dakota",0.0
+2404,46087,3,1,"McCook, South Dakota",0.333
+2405,0,0,0,0,0.0
+2406,46091,1,0,"Marshall, South Dakota",0.0
+2407,46093,1,0,"Meade, South Dakota",0.0
+2408,0,0,0,0,0.0
+2409,46097,1,0,"Miner, South Dakota",0.0
+2410,46099,1362,3,"Minnehaha, South Dakota",0.002
+2411,46101,1,0,"Moody, South Dakota",0.0
+2412,46102,1,0,"Oglala Lakota, South Dakota",0.0
+2413,46103,10,1,"Pennington, South Dakota",0.1
+2414,0,0,0,0,0.0
+2415,0,0,0,0,0.0
+2416,46109,4,0,"Roberts, South Dakota",0.0
+2417,46111,3,0,"Sanborn, South Dakota",0.0
+2418,46115,3,0,"Spink, South Dakota",0.0
+2419,0,0,0,0,0.0
+2420,46119,1,0,"Sully, South Dakota",0.0
+2421,46121,1,0,"Todd, South Dakota",0.0
+2422,0,0,0,0,0.0
+2423,46125,6,0,"Turner, South Dakota",0.0
+2424,46127,6,0,"Union, South Dakota",0.0
+2425,46129,5,0,"Walworth, South Dakota",0.0
+2426,46135,23,0,"Yankton, South Dakota",0.0
+2427,0,0,0,0,0.0
+2428,47001,16,1,"Anderson, Tennessee",0.062
+2429,47003,71,2,"Bedford, Tennessee",0.028
+2430,47005,4,0,"Benton, Tennessee",0.0
+2431,47007,9,0,"Bledsoe, Tennessee",0.0
+2432,47009,46,3,"Blount, Tennessee",0.065
+2433,47011,37,1,"Bradley, Tennessee",0.027
+2434,47013,12,1,"Campbell, Tennessee",0.083
+2435,47015,8,0,"Cannon, Tennessee",0.0
+2436,47017,15,0,"Carroll, Tennessee",0.0
+2437,47019,5,1,"Carter, Tennessee",0.2
+2438,47021,22,0,"Cheatham, Tennessee",0.0
+2439,47023,8,0,"Chester, Tennessee",0.0
+2440,47025,5,0,"Claiborne, Tennessee",0.0
+2441,47027,5,0,"Clay, Tennessee",0.0
+2442,47029,11,0,"Cocke, Tennessee",0.0
+2443,47031,20,0,"Coffee, Tennessee",0.0
+2444,47033,5,0,"Crockett, Tennessee",0.0
+2445,47035,57,0,"Cumberland, Tennessee",0.0
+2446,47037,1638,19,"Davidson, Tennessee",0.012
+2447,47039,4,0,"Decatur, Tennessee",0.0
+2448,47041,10,0,"DeKalb, Tennessee",0.0
+2449,47043,45,0,"Dickson, Tennessee",0.0
+2450,47045,28,0,"Dyer, Tennessee",0.0
+2451,47047,45,1,"Fayette, Tennessee",0.022
+2452,47049,4,0,"Fentress, Tennessee",0.0
+2453,47051,26,1,"Franklin, Tennessee",0.038
+2454,47053,31,0,"Gibson, Tennessee",0.0
+2455,47055,5,0,"Giles, Tennessee",0.0
+2456,47057,4,0,"Grainger, Tennessee",0.0
+2457,47059,30,2,"Greene, Tennessee",0.067
+2458,47061,25,1,"Grundy, Tennessee",0.04
+2459,47063,8,1,"Hamblen, Tennessee",0.125
+2460,47065,116,12,"Hamilton, Tennessee",0.103
+2461,0,0,0,0,0.0
+2462,47069,7,0,"Hardeman, Tennessee",0.0
+2463,47071,4,0,"Hardin, Tennessee",0.0
+2464,47073,27,2,"Hawkins, Tennessee",0.074
+2465,47075,13,1,"Haywood, Tennessee",0.077
+2466,47077,4,0,"Henderson, Tennessee",0.0
+2467,47079,9,0,"Henry, Tennessee",0.0
+2468,47081,2,0,"Hickman, Tennessee",0.0
+2469,47083,4,0,"Houston, Tennessee",0.0
+2470,47085,7,0,"Humphreys, Tennessee",0.0
+2471,47087,6,0,"Jackson, Tennessee",0.0
+2472,47089,15,1,"Jefferson, Tennessee",0.067
+2473,47091,2,0,"Johnson, Tennessee",0.0
+2474,47093,194,4,"Knox, Tennessee",0.021
+2475,47095,4,0,"Lake, Tennessee",0.0
+2476,47097,15,0,"Lauderdale, Tennessee",0.0
+2477,47099,15,0,"Lawrence, Tennessee",0.0
+2478,47101,2,0,"Lewis, Tennessee",0.0
+2479,47103,10,0,"Lincoln, Tennessee",0.0
+2480,47105,22,0,"Loudon, Tennessee",0.0
+2481,47107,6,0,"McMinn, Tennessee",0.0
+2482,47109,9,0,"McNairy, Tennessee",0.0
+2483,47111,33,3,"Macon, Tennessee",0.091
+2484,47113,86,0,"Madison, Tennessee",0.0
+2485,47115,28,1,"Marion, Tennessee",0.036
+2486,47117,16,1,"Marshall, Tennessee",0.062
+2487,47119,34,0,"Maury, Tennessee",0.0
+2488,47121,3,0,"Meigs, Tennessee",0.0
+2489,47123,10,1,"Monroe, Tennessee",0.1
+2490,47125,119,2,"Montgomery, Tennessee",0.017
+2491,47127,2,0,"Moore, Tennessee",0.0
+2492,47129,5,0,"Morgan, Tennessee",0.0
+2493,47131,9,1,"Obion, Tennessee",0.111
+2494,47133,7,0,"Overton, Tennessee",0.0
+2495,47135,6,0,"Perry, Tennessee",0.0
+2496,0,0,0,0,0.0
+2497,47139,5,0,"Polk, Tennessee",0.0
+2498,47141,95,2,"Putnam, Tennessee",0.021
+2499,47143,2,0,"Rhea, Tennessee",0.0
+2500,47145,8,0,"Roane, Tennessee",0.0
+2501,47147,113,0,"Robertson, Tennessee",0.0
+2502,47149,309,6,"Rutherford, Tennessee",0.019
+2503,47151,11,0,"Scott, Tennessee",0.0
+2504,47153,3,0,"Sequatchie, Tennessee",0.0
+2505,47155,24,1,"Sevier, Tennessee",0.042
+2506,47157,1778,35,"Shelby, Tennessee",0.02
+2507,47159,13,1,"Smith, Tennessee",0.077
+2508,47161,6,0,"Stewart, Tennessee",0.0
+2509,47163,45,1,"Sullivan, Tennessee",0.022
+2510,47165,509,30,"Sumner, Tennessee",0.059
+2511,47167,56,0,"Tipton, Tennessee",0.0
+2512,47169,22,1,"Trousdale, Tennessee",0.045
+2513,47171,1,0,"Unicoi, Tennessee",0.0
+2514,47173,3,0,"Union, Tennessee",0.0
+2515,47175,1,0,"Van Buren, Tennessee",0.0
+2516,47177,5,0,"Warren, Tennessee",0.0
+2517,47179,46,0,"Washington, Tennessee",0.0
+2518,47181,2,0,"Wayne, Tennessee",0.0
+2519,47183,8,0,"Weakley, Tennessee",0.0
+2520,47185,4,0,"White, Tennessee",0.0
+2521,47187,348,6,"Williamson, Tennessee",0.017
+2522,47189,181,1,"Wilson, Tennessee",0.006
+2523,48001,8,0,"Anderson, Texas",0.0
+2524,48003,19,0,"Andrews, Texas",0.0
+2525,48005,23,0,"Angelina, Texas",0.0
+2526,48007,2,0,"Aransas, Texas",0.0
+2527,0,0,0,0,0.0
+2528,48011,1,0,"Armstrong, Texas",0.0
+2529,48013,12,1,"Atascosa, Texas",0.083
+2530,48015,12,0,"Austin, Texas",0.0
+2531,0,0,0,0,0.0
+2532,48019,4,0,"Bandera, Texas",0.0
+2533,48021,44,2,"Bastrop, Texas",0.045
+2534,0,0,0,0,0.0
+2535,48025,5,0,"Bee, Texas",0.0
+2536,48027,126,3,"Bell, Texas",0.024
+2537,48029,992,38,"Bexar, Texas",0.038
+2538,48031,5,0,"Blanco, Texas",0.0
+2539,0,0,0,0,0.0
+2540,48035,1,0,"Bosque, Texas",0.0
+2541,48037,57,1,"Bowie, Texas",0.018
+2542,48039,304,3,"Brazoria, Texas",0.01
+2543,48041,169,16,"Brazos, Texas",0.095
+2544,0,0,0,0,0.0
+2545,0,0,0,0,0.0
+2546,0,0,0,0,0.0
+2547,48049,13,1,"Brown, Texas",0.077
+2548,48051,9,0,"Burleson, Texas",0.0
+2549,48053,8,0,"Burnet, Texas",0.0
+2550,48055,7,0,"Caldwell, Texas",0.0
+2551,48057,21,1,"Calhoun, Texas",0.048
+2552,48059,1,0,"Callahan, Texas",0.0
+2553,48061,298,6,"Cameron, Texas",0.02
+2554,48063,6,0,"Camp, Texas",0.0
+2555,48065,1,0,"Carson, Texas",0.0
+2556,48067,11,0,"Cass, Texas",0.0
+2557,48069,11,1,"Castro, Texas",0.091
+2558,48071,35,0,"Chambers, Texas",0.0
+2559,48073,10,1,"Cherokee, Texas",0.1
+2560,48075,1,0,"Childress, Texas",0.0
+2561,48077,3,0,"Clay, Texas",0.0
+2562,0,0,0,0,0.0
+2563,0,0,0,0,0.0
+2564,0,0,0,0,0.0
+2565,48085,522,13,"Collin, Texas",0.025
+2566,0,0,0,0,0.0
+2567,48089,8,0,"Colorado, Texas",0.0
+2568,48091,43,6,"Comal, Texas",0.14
+2569,48093,4,0,"Comanche, Texas",0.0
+2570,48095,1,0,"Concho, Texas",0.0
+2571,48097,4,0,"Cooke, Texas",0.0
+2572,48099,75,1,"Coryell, Texas",0.013
+2573,0,0,0,0,0.0
+2574,48103,2,0,"Crane, Texas",0.0
+2575,0,0,0,0,0.0
+2576,48107,1,1,"Crosby, Texas",1.0
+2577,0,0,0,0,0.0
+2578,48111,3,0,"Dallam, Texas",0.0
+2579,48113,2428,60,"Dallas, Texas",0.025
+2580,48115,12,1,"Dawson, Texas",0.083
+2581,48117,12,0,"Deaf Smith, Texas",0.0
+2582,48119,1,0,"Delta, Texas",0.0
+2583,48121,592,16,"Denton, Texas",0.027
+2584,48123,13,0,"DeWitt, Texas",0.0
+2585,48125,1,0,"Dickens, Texas",0.0
+2586,48127,1,0,"Dimmit, Texas",0.0
+2587,48129,23,0,"Donley, Texas",0.0
+2588,48131,1,0,"Duval, Texas",0.0
+2589,48133,3,0,"Eastland, Texas",0.0
+2590,48135,58,4,"Ector, Texas",0.069
+2591,0,0,0,0,0.0
+2592,48139,83,3,"Ellis, Texas",0.036
+2593,48141,505,8,"El Paso, Texas",0.016
+2594,48143,13,1,"Erath, Texas",0.077
+2595,48145,1,0,"Falls, Texas",0.0
+2596,48147,7,0,"Fannin, Texas",0.0
+2597,48149,15,0,"Fayette, Texas",0.0
+2598,0,0,0,0,0.0
+2599,48153,2,0,"Floyd, Texas",0.0
+2600,0,0,0,0,0.0
+2601,48157,755,17,"Fort Bend, Texas",0.023
+2602,48159,1,0,"Franklin, Texas",0.0
+2603,48161,3,0,"Freestone, Texas",0.0
+2604,48163,1,0,"Frio, Texas",0.0
+2605,48165,2,0,"Gaines, Texas",0.0
+2606,48167,450,15,"Galveston, Texas",0.033
+2607,0,0,0,0,0.0
+2608,48171,1,0,"Gillespie, Texas",0.0
+2609,0,0,0,0,0.0
+2610,48175,5,0,"Goliad, Texas",0.0
+2611,48177,2,0,"Gonzales, Texas",0.0
+2612,48179,17,0,"Gray, Texas",0.0
+2613,48181,19,0,"Grayson, Texas",0.0
+2614,48183,52,0,"Gregg, Texas",0.0
+2615,48185,10,1,"Grimes, Texas",0.1
+2616,48187,57,0,"Guadalupe, Texas",0.0
+2617,48189,12,2,"Hale, Texas",0.167
+2618,0,0,0,0,0.0
+2619,48193,5,0,"Hamilton, Texas",0.0
+2620,48195,1,0,"Hansford, Texas",0.0
+2621,0,0,0,0,0.0
+2622,48199,75,2,"Hardin, Texas",0.027
+2623,48201,4823,75,"Harris, Texas",0.016
+2624,48203,44,4,"Harrison, Texas",0.091
+2625,48205,1,0,"Hartley, Texas",0.0
+2626,0,0,0,0,0.0
+2627,48209,121,1,"Hays, Texas",0.008
+2628,48211,1,0,"Hemphill, Texas",0.0
+2629,48213,13,0,"Henderson, Texas",0.0
+2630,48215,255,3,"Hidalgo, Texas",0.012
+2631,48217,10,1,"Hill, Texas",0.1
+2632,48219,16,1,"Hockley, Texas",0.062
+2633,48221,17,3,"Hood, Texas",0.176
+2634,48223,4,0,"Hopkins, Texas",0.0
+2635,48225,3,0,"Houston, Texas",0.0
+2636,48227,1,1,"Howard, Texas",1.0
+2637,0,0,0,0,0.0
+2638,48231,26,2,"Hunt, Texas",0.077
+2639,48233,7,0,"Hutchinson, Texas",0.0
+2640,0,0,0,0,0.0
+2641,48237,3,0,"Jack, Texas",0.0
+2642,48239,4,0,"Jackson, Texas",0.0
+2643,48241,9,1,"Jasper, Texas",0.111
+2644,0,0,0,0,0.0
+2645,48245,171,9,"Jefferson, Texas",0.053
+2646,0,0,0,0,0.0
+2647,48249,2,0,"Jim Wells, Texas",0.0
+2648,48251,44,1,"Johnson, Texas",0.023
+2649,48253,4,0,"Jones, Texas",0.0
+2650,48255,3,0,"Karnes, Texas",0.0
+2651,48257,42,0,"Kaufman, Texas",0.0
+2652,48259,14,0,"Kendall, Texas",0.0
+2653,0,0,0,0,0.0
+2654,0,0,0,0,0.0
+2655,48265,4,0,"Kerr, Texas",0.0
+2656,0,0,0,0,0.0
+2657,0,0,0,0,0.0
+2658,0,0,0,0,0.0
+2659,48273,6,1,"Kleberg, Texas",0.167
+2660,48275,1,0,"Knox, Texas",0.0
+2661,48277,7,0,"Lamar, Texas",0.0
+2662,48279,2,0,"Lamb, Texas",0.0
+2663,48281,2,0,"Lampasas, Texas",0.0
+2664,48283,1,0,"La Salle, Texas",0.0
+2665,48285,4,0,"Lavaca, Texas",0.0
+2666,48287,2,0,"Lee, Texas",0.0
+2667,48289,5,0,"Leon, Texas",0.0
+2668,48291,32,0,"Liberty, Texas",0.0
+2669,48293,11,1,"Limestone, Texas",0.091
+2670,0,0,0,0,0.0
+2671,48297,3,0,"Live Oak, Texas",0.0
+2672,48299,3,0,"Llano, Texas",0.0
+2673,0,0,0,0,0.0
+2674,48303,419,28,"Lubbock, Texas",0.067
+2675,48305,5,0,"Lynn, Texas",0.0
+2676,48307,3,0,"McCulloch, Texas",0.0
+2677,48309,76,4,"McLennan, Texas",0.053
+2678,0,0,0,0,0.0
+2679,48313,2,0,"Madison, Texas",0.0
+2680,48315,3,0,"Marion, Texas",0.0
+2681,48317,2,0,"Martin, Texas",0.0
+2682,48319,1,0,"Mason, Texas",0.0
+2683,48321,51,3,"Matagorda, Texas",0.059
+2684,48323,12,0,"Maverick, Texas",0.0
+2685,48325,15,2,"Medina, Texas",0.133
+2686,0,0,0,0,0.0
+2687,48329,42,3,"Midland, Texas",0.071
+2688,48331,11,0,"Milam, Texas",0.0
+2689,0,0,0,0,0.0
+2690,48335,1,0,"Mitchell, Texas",0.0
+2691,48337,5,0,"Montague, Texas",0.0
+2692,48339,377,7,"Montgomery, Texas",0.019
+2693,48341,106,0,"Moore, Texas",0.0
+2694,48343,5,0,"Morris, Texas",0.0
+2695,48345,1,0,"Motley, Texas",0.0
+2696,48347,89,6,"Nacogdoches, Texas",0.067
+2697,48349,20,2,"Navarro, Texas",0.1
+2698,48351,2,0,"Newton, Texas",0.0
+2699,0,0,0,0,0.0
+2700,48355,90,0,"Nueces, Texas",0.0
+2701,0,0,0,0,0.0
+2702,48359,3,1,"Oldham, Texas",0.333
+2703,48361,53,0,"Orange, Texas",0.0
+2704,48363,7,1,"Palo Pinto, Texas",0.143
+2705,48365,38,3,"Panola, Texas",0.079
+2706,48367,21,0,"Parker, Texas",0.0
+2707,48369,1,0,"Parmer, Texas",0.0
+2708,48371,5,0,"Pecos, Texas",0.0
+2709,48373,14,0,"Polk, Texas",0.0
+2710,48375,130,2,"Potter, Texas",0.015
+2711,0,0,0,0,0.0
+2712,48379,2,0,"Rains, Texas",0.0
+2713,48381,103,3,"Randall, Texas",0.029
+2714,0,0,0,0,0.0
+2715,0,0,0,0,0.0
+2716,48387,1,0,"Red River, Texas",0.0
+2717,48389,2,0,"Reeves, Texas",0.0
+2718,0,0,0,0,0.0
+2719,48393,2,0,"Roberts, Texas",0.0
+2720,48395,2,0,"Robertson, Texas",0.0
+2721,48397,41,0,"Rockwall, Texas",0.0
+2722,0,0,0,0,0.0
+2723,48401,28,1,"Rusk, Texas",0.036
+2724,48403,1,0,"Sabine, Texas",0.0
+2725,48405,14,1,"San Augustine, Texas",0.071
+2726,48407,10,0,"San Jacinto, Texas",0.0
+2727,48409,8,0,"San Patricio, Texas",0.0
+2728,0,0,0,0,0.0
+2729,0,0,0,0,0.0
+2730,48415,2,0,"Scurry, Texas",0.0
+2731,0,0,0,0,0.0
+2732,48419,60,0,"Shelby, Texas",0.0
+2733,48421,7,0,"Sherman, Texas",0.0
+2734,48423,121,2,"Smith, Texas",0.017
+2735,0,0,0,0,0.0
+2736,48427,7,0,"Starr, Texas",0.0
+2737,48429,1,0,"Stephens, Texas",0.0
+2738,0,0,0,0,0.0
+2739,0,0,0,0,0.0
+2740,0,0,0,0,0.0
+2741,48437,4,0,"Swisher, Texas",0.0
+2742,48439,1229,38,"Tarrant, Texas",0.031
+2743,48441,142,2,"Taylor, Texas",0.014
+2744,0,0,0,0,0.0
+2745,48445,10,0,"Terry, Texas",0.0
+2746,0,0,0,0,0.0
+2747,48449,9,0,"Titus, Texas",0.0
+2748,48451,41,1,"Tom Green, Texas",0.024
+2749,48453,1092,23,"Travis, Texas",0.021
+2750,48455,7,0,"Trinity, Texas",0.0
+2751,48457,6,0,"Tyler, Texas",0.0
+2752,48459,9,0,"Upshur, Texas",0.0
+2753,0,0,0,0,0.0
+2754,48463,6,0,"Uvalde, Texas",0.0
+2755,48465,12,0,"Val Verde, Texas",0.0
+2756,48467,12,1,"Van Zandt, Texas",0.083
+2757,48469,93,1,"Victoria, Texas",0.011
+2758,48471,77,0,"Walker, Texas",0.0
+2759,48473,24,0,"Waller, Texas",0.0
+2760,0,0,0,0,0.0
+2761,48477,52,4,"Washington, Texas",0.077
+2762,48479,267,11,"Webb, Texas",0.041
+2763,48481,34,0,"Wharton, Texas",0.0
+2764,0,0,0,0,0.0
+2765,48485,59,2,"Wichita, Texas",0.034
+2766,48487,1,0,"Wilbarger, Texas",0.0
+2767,48489,8,1,"Willacy, Texas",0.125
+2768,48491,151,4,"Williamson, Texas",0.026
+2769,48493,21,1,"Wilson, Texas",0.048
+2770,48495,3,0,"Winkler, Texas",0.0
+2771,48497,9,2,"Wise, Texas",0.222
+2772,48499,6,0,"Wood, Texas",0.0
+2773,48501,1,0,"Yoakum, Texas",0.0
+2774,48503,4,1,"Young, Texas",0.25
+2775,48505,6,0,"Zapata, Texas",0.0
+2776,48507,1,0,"Zavala, Texas",0.0
+2777,0,0,0,0,0.0
+2778,0,0,0,0,0.0
+2779,0,0,0,0,0.0
+2780,0,0,0,0,0.0
+2781,0,0,0,0,0.0
+2782,49011,236,2,"Davis, Utah",0.008
+2783,0,0,0,0,0.0
+2784,0,0,0,0,0.0
+2785,0,0,0,0,0.0
+2786,0,0,0,0,0.0
+2787,0,0,0,0,0.0
+2788,0,0,0,0,0.0
+2789,0,0,0,0,0.0
+2790,0,0,0,0,0.0
+2791,0,0,0,0,0.0
+2792,0,0,0,0,0.0
+2793,0,0,0,0,0.0
+2794,49035,1615,15,"Salt Lake, Utah",0.009
+2795,49037,22,2,"San Juan, Utah",0.091
+2796,0,0,0,0,0.0
+2797,0,0,0,0,0.0
+2798,49043,318,0,"Summit, Utah",0.0
+2799,49045,42,0,"Tooele, Utah",0.0
+2800,0,0,0,0,0.0
+2801,49049,455,5,"Utah, Utah",0.011
+2802,49051,111,1,"Wasatch, Utah",0.009
+2803,0,0,0,0,0.0
+2804,0,0,0,0,0.0
+2805,0,0,0,0,0.0
+2806,50001,61,2,"Addison, Vermont",0.033
+2807,50003,37,1,"Bennington, Vermont",0.027
+2808,50005,12,0,"Caledonia, Vermont",0.0
+2809,50007,385,23,"Chittenden, Vermont",0.06
+2810,50009,2,0,"Essex, Vermont",0.0
+2811,50011,91,3,"Franklin, Vermont",0.033
+2812,50013,3,0,"Grand Isle, Vermont",0.0
+2813,50015,23,2,"Lamoille, Vermont",0.087
+2814,50017,5,0,"Orange, Vermont",0.0
+2815,50019,9,0,"Orleans, Vermont",0.0
+2816,50021,43,1,"Rutland, Vermont",0.023
+2817,50023,32,1,"Washington, Vermont",0.031
+2818,50025,63,2,"Windham, Vermont",0.032
+2819,50027,37,2,"Windsor, Vermont",0.054
+2820,51001,42,0,"Accomack, Virginia",0.0
+2821,51003,57,0,"Albemarle, Virginia",0.0
+2822,51005,5,0,"Alleghany, Virginia",0.0
+2823,51007,14,0,"Amelia, Virginia",0.0
+2824,51009,10,0,"Amherst, Virginia",0.0
+2825,51011,7,0,"Appomattox, Virginia",0.0
+2826,51013,575,16,"Arlington, Virginia",0.028
+2827,51015,22,0,"Augusta, Virginia",0.0
+2828,0,0,0,0,0.0
+2829,51019,18,0,"Bedford, Virginia",0.0
+2830,0,0,0,0,0.0
+2831,51023,24,0,"Botetourt, Virginia",0.0
+2832,51025,12,0,"Brunswick, Virginia",0.0
+2833,51027,12,0,"Buchanan, Virginia",0.0
+2834,51029,26,0,"Buckingham, Virginia",0.0
+2835,51031,9,0,"Campbell, Virginia",0.0
+2836,51033,13,0,"Caroline, Virginia",0.0
+2837,51035,3,0,"Carroll, Virginia",0.0
+2838,51036,11,0,"Charles City, Virginia",0.0
+2839,51037,8,0,"Charlotte, Virginia",0.0
+2840,51041,311,0,"Chesterfield, Virginia",0.0
+2841,51043,6,0,"Clarke, Virginia",0.0
+2842,51045,2,0,"Craig, Virginia",0.0
+2843,51047,43,0,"Culpeper, Virginia",0.0
+2844,51049,10,0,"Cumberland, Virginia",0.0
+2845,0,0,0,0,0.0
+2846,51053,7,0,"Dinwiddie, Virginia",0.0
+2847,51057,2,0,"Essex, Virginia",0.0
+2848,51059,1809,37,"Fairfax, Virginia",0.02
+2849,51061,39,0,"Fauquier, Virginia",0.0
+2850,51063,1,0,"Floyd, Virginia",0.0
+2851,51065,66,0,"Fluvanna, Virginia",0.0
+2852,51067,15,0,"Franklin, Virginia",0.0
+2853,51069,81,0,"Frederick, Virginia",0.0
+2854,51071,4,0,"Giles, Virginia",0.0
+2855,51073,21,0,"Gloucester, Virginia",0.0
+2856,51075,55,0,"Goochland, Virginia",0.0
+2857,0,0,0,0,0.0
+2858,51079,8,0,"Greene, Virginia",0.0
+2859,51081,18,0,"Greensville, Virginia",0.0
+2860,51083,8,0,"Halifax, Virginia",0.0
+2861,51085,84,0,"Hanover, Virginia",0.0
+2862,51087,584,62,"Henrico, Virginia",0.106
+2863,51089,10,0,"Henry, Virginia",0.0
+2864,0,0,0,0,0.0
+2865,51093,86,0,"Isle of Wight, Virginia",0.0
+2866,51095,141,2,"James City, Virginia",0.014
+2867,51097,2,0,"King and Queen, Virginia",0.0
+2868,51099,18,0,"King George, Virginia",0.0
+2869,51101,2,0,"King William, Virginia",0.0
+2870,51103,1,0,"Lancaster, Virginia",0.0
+2871,51105,7,0,"Lee, Virginia",0.0
+2872,51107,425,8,"Loudoun, Virginia",0.019
+2873,51109,33,0,"Louisa, Virginia",0.0
+2874,51111,3,0,"Lunenburg, Virginia",0.0
+2875,51113,8,0,"Madison, Virginia",0.0
+2876,51115,3,0,"Mathews, Virginia",0.0
+2877,51117,65,0,"Mecklenburg, Virginia",0.0
+2878,51119,3,0,"Middlesex, Virginia",0.0
+2879,51121,42,0,"Montgomery, Virginia",0.0
+2880,51125,5,0,"Nelson, Virginia",0.0
+2881,51127,17,0,"New Kent, Virginia",0.0
+2882,51131,7,0,"Northampton, Virginia",0.0
+2883,51133,5,0,"Northumberland, Virginia",0.0
+2884,51135,8,0,"Nottoway, Virginia",0.0
+2885,51137,20,0,"Orange, Virginia",0.0
+2886,51139,13,0,"Page, Virginia",0.0
+2887,0,0,0,0,0.0
+2888,51143,6,0,"Pittsylvania, Virginia",0.0
+2889,51145,9,0,"Powhatan, Virginia",0.0
+2890,51147,17,0,"Prince Edward, Virginia",0.0
+2891,51149,28,0,"Prince George, Virginia",0.0
+2892,51153,742,1,"Prince William, Virginia",0.001
+2893,51155,8,0,"Pulaski, Virginia",0.0
+2894,51157,1,0,"Rappahannock, Virginia",0.0
+2895,51159,9,0,"Richmond, Virginia",0.0
+2896,51161,22,0,"Roanoke, Virginia",0.0
+2897,51163,5,0,"Rockbridge, Virginia",0.0
+2898,51165,100,0,"Rockingham, Virginia",0.0
+2899,51167,2,0,"Russell, Virginia",0.0
+2900,51169,4,0,"Scott, Virginia",0.0
+2901,51171,39,0,"Shenandoah, Virginia",0.0
+2902,51173,12,0,"Smyth, Virginia",0.0
+2903,51175,16,0,"Southampton, Virginia",0.0
+2904,51177,74,0,"Spotsylvania, Virginia",0.0
+2905,51179,152,0,"Stafford, Virginia",0.0
+2906,51181,3,0,"Surry, Virginia",0.0
+2907,51183,11,0,"Sussex, Virginia",0.0
+2908,51185,4,0,"Tazewell, Virginia",0.0
+2909,51187,24,0,"Warren, Virginia",0.0
+2910,51191,29,0,"Washington, Virginia",0.0
+2911,51193,10,0,"Westmoreland, Virginia",0.0
+2912,51195,18,0,"Wise, Virginia",0.0
+2913,51197,10,0,"Wythe, Virginia",0.0
+2914,51199,44,1,"York, Virginia",0.023
+2915,51510,383,7,"Alexandria, Virginia",0.018
+2916,51520,1,0,"Bristol, Virginia",0.0
+2917,51530,5,0,"Buena Vista, Virginia",0.0
+2918,51540,41,1,"Charlottesville, Virginia",0.024
+2919,51550,162,4,"Chesapeake, Virginia",0.025
+2920,51570,23,0,"Colonial Heights, Virginia",0.0
+2921,51580,1,0,"Covington, Virginia",0.0
+2922,51590,27,0,"Danville, Virginia",0.0
+2923,51595,7,0,"Emporia, Virginia",0.0
+2924,51600,11,0,"Fairfax City, Virginia",0.0
+2925,0,0,0,0,0.0
+2926,51620,15,0,"Franklin City, Virginia",0.0
+2927,51630,17,0,"Fredericksburg, Virginia",0.0
+2928,51640,1,0,"Galax, Virginia",0.0
+2929,51650,83,1,"Hampton, Virginia",0.012
+2930,51660,236,0,"Harrisonburg, Virginia",0.0
+2931,51670,16,0,"Hopewell, Virginia",0.0
+2932,51678,3,0,"Lexington, Virginia",0.0
+2933,51680,38,0,"Lynchburg, Virginia",0.0
+2934,51683,93,0,"Manassas, Virginia",0.0
+2935,51685,25,0,"Manassas Park, Virginia",0.0
+2936,0,0,0,0,0.0
+2937,51700,102,1,"Newport News, Virginia",0.01
+2938,51710,111,2,"Norfolk, Virginia",0.018
+2939,51720,2,0,"Norton, Virginia",0.0
+2940,51730,21,0,"Petersburg, Virginia",0.0
+2941,51735,6,0,"Poquoson, Virginia",0.0
+2942,51740,65,4,"Portsmouth, Virginia",0.062
+2943,51750,1,0,"Radford, Virginia",0.0
+2944,51760,231,10,"Richmond City, Virginia",0.043
+2945,51770,24,0,"Roanoke City, Virginia",0.0
+2946,51775,6,0,"Salem, Virginia",0.0
+2947,51790,5,0,"Staunton, Virginia",0.0
+2948,51800,91,0,"Suffolk, Virginia",0.0
+2949,51810,273,6,"Virginia Beach, Virginia",0.022
+2950,51820,7,0,"Waynesboro, Virginia",0.0
+2951,51830,19,1,"Williamsburg, Virginia",0.053
+2952,51840,25,0,"Winchester, Virginia",0.0
+2953,53001,41,0,"Adams, Washington",0.0
+2954,53003,13,0,"Asotin, Washington",0.0
+2955,53005,313,34,"Benton, Washington",0.109
+2956,53007,73,6,"Chelan, Washington",0.082
+2957,53009,15,0,"Clallam, Washington",0.0
+2958,53011,277,16,"Clark, Washington",0.058
+2959,53013,1,0,"Columbia, Washington",0.0
+2960,53015,29,0,"Cowlitz, Washington",0.0
+2961,53017,34,1,"Douglas, Washington",0.029
+2962,53019,1,0,"Ferry, Washington",0.0
+2963,53021,191,4,"Franklin, Washington",0.021
+2964,0,0,0,0,0.0
+2965,53025,143,2,"Grant, Washington",0.014
+2966,53027,12,0,"Grays Harbor, Washington",0.0
+2967,53029,166,8,"Island, Washington",0.048
+2968,53031,29,0,"Jefferson, Washington",0.0
+2969,53033,5174,346,"King, Washington",0.067
+2970,53035,138,1,"Kitsap, Washington",0.007
+2971,53037,14,0,"Kittitas, Washington",0.0
+2972,53039,16,3,"Klickitat, Washington",0.188
+2973,53041,20,2,"Lewis, Washington",0.1
+2974,53043,2,0,"Lincoln, Washington",0.0
+2975,53045,22,0,"Mason, Washington",0.0
+2976,53047,15,0,"Okanogan, Washington",0.0
+2977,53049,1,0,"Pacific, Washington",0.0
+2978,53051,2,0,"Pend Oreille, Washington",0.0
+2979,53053,1143,32,"Pierce, Washington",0.028
+2980,53055,15,0,"San Juan, Washington",0.0
+2981,53057,240,7,"Skagit, Washington",0.029
+2982,53059,3,0,"Skamania, Washington",0.0
+2983,53061,2143,93,"Snohomish, Washington",0.043
+2984,53063,307,17,"Spokane, Washington",0.055
+2985,53065,8,1,"Stevens, Washington",0.125
+2986,53067,93,1,"Thurston, Washington",0.011
+2987,53069,2,0,"Wahkiakum, Washington",0.0
+2988,53071,27,0,"Walla Walla, Washington",0.0
+2989,53073,277,26,"Whatcom, Washington",0.094
+2990,53075,15,0,"Whitman, Washington",0.0
+2991,53077,804,36,"Yakima, Washington",0.045
+2992,54001,4,0,"Barbour, West Virginia",0.0
+2993,54003,109,1,"Berkeley, West Virginia",0.009
+2994,54005,2,0,"Boone, West Virginia",0.0
+2995,54007,1,0,"Braxton, West Virginia",0.0
+2996,54009,3,0,"Brooke, West Virginia",0.0
+2997,54011,34,0,"Cabell, West Virginia",0.0
+2998,0,0,0,0,0.0
+2999,0,0,0,0,0.0
+3000,0,0,0,0,0.0
+3001,54019,5,0,"Fayette, West Virginia",0.0
+3002,0,0,0,0,0.0
+3003,54023,1,0,"Grant, West Virginia",0.0
+3004,54025,3,0,"Greenbrier, West Virginia",0.0
+3005,54027,6,0,"Hampshire, West Virginia",0.0
+3006,54029,7,0,"Hancock, West Virginia",0.0
+3007,54031,3,0,"Hardy, West Virginia",0.0
+3008,54033,30,1,"Harrison, West Virginia",0.033
+3009,54035,100,1,"Jackson, West Virginia",0.01
+3010,54037,60,0,"Jefferson, West Virginia",0.0
+3011,54039,127,0,"Kanawha, West Virginia",0.0
+3012,54041,2,0,"Lewis, West Virginia",0.0
+3013,54043,1,0,"Lincoln, West Virginia",0.0
+3014,54045,8,1,"Logan, West Virginia",0.125
+3015,54047,6,0,"McDowell, West Virginia",0.0
+3016,54049,42,1,"Marion, West Virginia",0.024
+3017,54051,8,0,"Marshall, West Virginia",0.0
+3018,54053,11,0,"Mason, West Virginia",0.0
+3019,54055,8,0,"Mercer, West Virginia",0.0
+3020,54057,8,0,"Mineral, West Virginia",0.0
+3021,54059,2,0,"Mingo, West Virginia",0.0
+3022,54061,87,2,"Monongalia, West Virginia",0.023
+3023,54063,5,0,"Monroe, West Virginia",0.0
+3024,54065,8,0,"Morgan, West Virginia",0.0
+3025,54067,4,0,"Nicholas, West Virginia",0.0
+3026,54069,22,0,"Ohio, West Virginia",0.0
+3027,54071,2,0,"Pendleton, West Virginia",0.0
+3028,54073,1,0,"Pleasants, West Virginia",0.0
+3029,0,0,0,0,0.0
+3030,54077,10,0,"Preston, West Virginia",0.0
+3031,54079,14,0,"Putnam, West Virginia",0.0
+3032,54081,7,0,"Raleigh, West Virginia",0.0
+3033,54083,4,0,"Randolph, West Virginia",0.0
+3034,0,0,0,0,0.0
+3035,54087,3,0,"Roane, West Virginia",0.0
+3036,54089,1,0,"Summers, West Virginia",0.0
+3037,54091,5,0,"Taylor, West Virginia",0.0
+3038,54093,4,0,"Tucker, West Virginia",0.0
+3039,54095,3,0,"Tyler, West Virginia",0.0
+3040,54097,4,0,"Upshur, West Virginia",0.0
+3041,54099,78,0,"Wayne, West Virginia",0.0
+3042,0,0,0,0,0.0
+3043,54103,3,0,"Wetzel, West Virginia",0.0
+3044,54105,2,0,"Wirt, West Virginia",0.0
+3045,54107,31,0,"Wood, West Virginia",0.0
+3046,54109,1,0,"Wyoming, West Virginia",0.0
+3047,55001,4,1,"Adams, Wisconsin",0.25
+3048,55003,2,0,"Ashland, Wisconsin",0.0
+3049,55005,6,0,"Barron, Wisconsin",0.0
+3050,55007,3,1,"Bayfield, Wisconsin",0.333
+3051,55009,215,1,"Brown, Wisconsin",0.005
+3052,55011,4,1,"Buffalo, Wisconsin",0.25
+3053,0,0,0,0,0.0
+3054,55015,6,0,"Calumet, Wisconsin",0.0
+3055,55017,20,0,"Chippewa, Wisconsin",0.0
+3056,55019,16,0,"Clark, Wisconsin",0.0
+3057,55021,27,1,"Columbia, Wisconsin",0.037
+3058,55023,3,0,"Crawford, Wisconsin",0.0
+3059,55025,361,19,"Dane, Wisconsin",0.053
+3060,55027,19,1,"Dodge, Wisconsin",0.053
+3061,55029,9,1,"Door, Wisconsin",0.111
+3062,55031,8,0,"Douglas, Wisconsin",0.0
+3063,55033,9,0,"Dunn, Wisconsin",0.0
+3064,55035,22,0,"Eau Claire, Wisconsin",0.0
+3065,55037,2,0,"Florence, Wisconsin",0.0
+3066,55039,62,3,"Fond du Lac, Wisconsin",0.048
+3067,0,0,0,0,0.0
+3068,55043,18,2,"Grant, Wisconsin",0.111
+3069,55045,9,0,"Green, Wisconsin",0.0
+3070,55047,1,0,"Green Lake, Wisconsin",0.0
+3071,55049,6,0,"Iowa, Wisconsin",0.0
+3072,55051,2,1,"Iron, Wisconsin",0.5
+3073,55053,12,1,"Jackson, Wisconsin",0.083
+3074,55055,32,0,"Jefferson, Wisconsin",0.0
+3075,55057,10,1,"Juneau, Wisconsin",0.1
+3076,55059,248,5,"Kenosha, Wisconsin",0.02
+3077,55061,8,1,"Kewaunee, Wisconsin",0.125
+3078,55063,25,0,"La Crosse, Wisconsin",0.0
+3079,55065,3,0,"Lafayette, Wisconsin",0.0
+3080,0,0,0,0,0.0
+3081,0,0,0,0,0.0
+3082,55071,6,0,"Manitowoc, Wisconsin",0.0
+3083,55073,17,1,"Marathon, Wisconsin",0.059
+3084,55075,5,1,"Marinette, Wisconsin",0.2
+3085,55077,3,1,"Marquette, Wisconsin",0.333
+3086,55078,1,0,"Menominee, Wisconsin",0.0
+3087,55079,2150,125,"Milwaukee, Wisconsin",0.058
+3088,55081,13,0,"Monroe, Wisconsin",0.0
+3089,55083,4,0,"Oconto, Wisconsin",0.0
+3090,55085,6,0,"Oneida, Wisconsin",0.0
+3091,55087,35,2,"Outagamie, Wisconsin",0.057
+3092,55089,79,9,"Ozaukee, Wisconsin",0.114
+3093,0,0,0,0,0.0
+3094,55093,7,0,"Pierce, Wisconsin",0.0
+3095,55095,4,0,"Polk, Wisconsin",0.0
+3096,55097,4,0,"Portage, Wisconsin",0.0
+3097,55099,1,0,"Price, Wisconsin",0.0
+3098,55101,168,9,"Racine, Wisconsin",0.054
+3099,55103,8,1,"Richland, Wisconsin",0.125
+3100,55105,74,4,"Rock, Wisconsin",0.054
+3101,55107,4,0,"Rusk, Wisconsin",0.0
+3102,55109,11,0,"St. Croix, Wisconsin",0.0
+3103,55111,33,3,"Sauk, Wisconsin",0.091
+3104,55113,2,0,"Sawyer, Wisconsin",0.0
+3105,55115,6,0,"Shawano, Wisconsin",0.0
+3106,55117,40,2,"Sheboygan, Wisconsin",0.05
+3107,0,0,0,0,0.0
+3108,55121,1,0,"Trempealeau, Wisconsin",0.0
+3109,0,0,0,0,0.0
+3110,55125,4,0,"Vilas, Wisconsin",0.0
+3111,55127,89,6,"Walworth, Wisconsin",0.067
+3112,55129,1,0,"Washburn, Wisconsin",0.0
+3113,55131,84,3,"Washington, Wisconsin",0.036
+3114,55133,265,11,"Waukesha, Wisconsin",0.042
+3115,55135,4,1,"Waupaca, Wisconsin",0.25
+3116,55137,2,0,"Waushara, Wisconsin",0.0
+3117,55139,41,1,"Winnebago, Wisconsin",0.024
+3118,55141,2,0,"Wood, Wisconsin",0.0
+3119,56001,6,0,"Albany, Wyoming",0.0
+3120,56003,1,0,"Big Horn, Wyoming",0.0
+3121,56005,13,0,"Campbell, Wyoming",0.0
+3122,56007,4,0,"Carbon, Wyoming",0.0
+3123,56009,9,0,"Converse, Wyoming",0.0
+3124,56011,4,0,"Crook, Wyoming",0.0
+3125,56013,49,0,"Fremont, Wyoming",0.0
+3126,56015,3,0,"Goshen, Wyoming",0.0
+3127,56017,1,0,"Hot Springs, Wyoming",0.0
+3128,56019,11,1,"Johnson, Wyoming",0.091
+3129,56021,71,0,"Laramie, Wyoming",0.0
+3130,56023,5,0,"Lincoln, Wyoming",0.0
+3131,56025,38,0,"Natrona, Wyoming",0.0
+3132,56027,1,0,"Niobrara, Wyoming",0.0
+3133,56029,1,0,"Park, Wyoming",0.0
+3134,0,0,0,0,0.0
+3135,56033,12,0,"Sheridan, Wyoming",0.0
+3136,56035,1,0,"Sublette, Wyoming",0.0
+3137,56037,10,0,"Sweetwater, Wyoming",0.0
+3138,56039,62,0,"Teton, Wyoming",0.0
+3139,56041,6,0,"Uinta, Wyoming",0.0
+3140,56043,5,0,"Washakie, Wyoming",0.0
+3141,0,0,0,0,0.0
+3142,0,0,0,0,0.0
+3143,0,0,0,0,0.0
+3144,0,0,0,0,0.0
+3145,0,0,0,0,0.0
+3146,0,0,0,0,0.0
+3147,0,0,0,0,0.0
+3148,0,0,0,0,0.0
+3149,0,0,0,0,0.0
+3150,0,0,0,0,0.0
+3151,0,0,0,0,0.0
+3152,80013,868,7,"Out of GA, Georgia",0.008
+3153,80015,6,0,"Out of HI, Hawaii",0.0
+3154,0,0,0,0,0.0
+3155,0,0,0,0,0.0
+3156,0,0,0,0,0.0
+3157,0,0,0,0,0.0
+3158,0,0,0,0,0.0
+3159,0,0,0,0,0.0
+3160,0,0,0,0,0.0
+3161,0,0,0,0,0.0
+3162,0,0,0,0,0.0
+3163,0,0,0,0,0.0
+3164,80026,76,2,"Out of MI, Michigan",0.026
+3165,0,0,0,0,0.0
+3166,0,0,0,0,0.0
+3167,0,0,0,0,0.0
+3168,0,0,0,0,0.0
+3169,0,0,0,0,0.0
+3170,0,0,0,0,0.0
+3171,0,0,0,0,0.0
+3172,0,0,0,0,0.0
+3173,0,0,0,0,0.0
+3174,0,0,0,0,0.0
+3175,0,0,0,0,0.0
+3176,0,0,0,0,0.0
+3177,0,0,0,0,0.0
+3178,0,0,0,0,0.0
+3179,0,0,0,0,0.0
+3180,0,0,0,0,0.0
+3181,0,0,0,0,0.0
+3182,0,0,0,0,0.0
+3183,0,0,0,0,0.0
+3184,80047,274,1,"Out of TN, Tennessee",0.004
+3185,0,0,0,0,0.0
+3186,0,0,0,0,0.0
+3187,0,0,0,0,0.0
+3188,0,0,0,0,0.0
+3189,0,0,0,0,0.0
+3190,0,0,0,0,0.0
+3191,0,0,0,0,0.0
+3192,0,0,0,0,0.0
+3193,88888,49,0,,0.0
+3194,0,0,0,0,0.0
+3195,90002,0,4,"Unassigned, Alaska",0.0
+3196,90004,0,1,"Unassigned, Arizona",0.0
+3197,90005,46,0,"Unassigned, Arkansas",0.0
+3198,90006,0,2,"Unassigned, California",0.0
+3199,90008,114,1,"Unassigned, Colorado",0.009
+3200,90009,529,4,"Unassigned, Connecticut",0.008
+3201,90010,30,0,"Unassigned, Delaware",0.0
+3202,0,0,0,0,0.0
+3203,90012,3,0,"Unassigned, Florida",0.0
+3204,90013,254,0,"Unassigned, Georgia",0.0
+3205,0,0,0,0,0.0
+3206,0,0,0,0,0.0
+3207,90017,115,3,"Unassigned, Illinois",0.026
+3208,0,0,0,0,0.0
+3209,90019,7,0,"Unassigned, Iowa",0.0
+3210,0,0,0,0,0.0
+3211,90021,79,6,"Unassigned, Kentucky",0.076
+3212,90022,58,1,"Unassigned, Louisiana",0.017
+3213,90023,2,0,"Unassigned, Maine",0.0
+3214,0,0,0,0,0.0
+3215,90025,815,20,"Unassigned, Massachusetts",0.025
+3216,90026,29,4,"Unassigned, Michigan",0.138
+3217,90027,4,0,"Unassigned, Minnesota",0.0
+3218,0,0,0,0,0.0
+3219,0,0,0,0,0.0
+3220,0,0,0,0,0.0
+3221,90031,40,10,"Unassigned, Nebraska",0.25
+3222,90032,20,0,"Unassigned, Nevada",0.0
+3223,90033,0,35,"Unassigned, New Hampshire",0.0
+3224,90034,585,0,"Unassigned, New Jersey",0.0
+3225,0,0,0,0,0.0
+3226,90036,0,401,"Unassigned, New York",0.0
+3227,90037,3,0,"Unassigned, North Carolina",0.0
+3228,0,0,0,0,0.0
+3229,0,0,0,0,0.0
+3230,0,0,0,0,0.0
+3231,0,0,0,0,0.0
+3232,0,0,0,0,0.0
+3233,90044,1030,147,"Unassigned, Rhode Island",0.143
+3234,0,0,0,0,0.0
+3235,0,0,0,0,0.0
+3236,90047,88,0,"Unassigned, Tennessee",0.0
+3237,0,0,0,0,0.0
+3238,0,0,0,0,0.0
+3239,90050,10,1,"Unassigned, Vermont",0.1
+3240,90051,0,113,"Unassigned, Virginia",0.0
+3241,90053,436,0,"Unassigned, Washington",0.0
+3242,90054,0,11,"Unassigned, West Virginia",0.0
+3243,0,0,0,0,0.0
+3244,90056,0,1,"Unassigned, Wyoming",0.0
+3245,99999,103,0,,0.0
